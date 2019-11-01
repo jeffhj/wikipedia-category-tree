@@ -1,0 +1,6573 @@
+algorithms and data structures	0
+abstract data types	337
+priority queues	4
+heaps (data structures)	0
+algorithmic complexity attacks	0
+algorithms	2809
+computer algebra	3448
+computer algebra systems	96
+computer algebra system software for linux	0
+computer algebra system software for macos	0
+computer algebra system software for windows	0
+free computer algebra systems	0
+algorithm description languages	0
+structured english	13
+xtalk	5
+algorithmic trading	15955
+works about algorithmic trading	0
+approximation algorithms	143
+behavior selection algorithms	0
+bioinformatics algorithms	0
+genetic algorithms	1158
+artificial immune systems	72
+gene expression programming	902
+sequence alignment algorithms	0
+substring indices	0
+calendar algorithms	0
+checksum algorithms	0
+cyclic redundancy checks	1
+international standard book number	4986
+isbn agencies	0
+combinatorial algorithms	5
+exchange algorithms	0
+geometric algorithms	2
+computational topology	893
+computer graphics algorithms	0
+computer-aided design	42586
+digital geometry	540
+geographic information systems	856
+graph drawing	4242
+mesh generation	3534
+researchers in geometric algorithms	0
+graph algorithms	322
+graph rewriting	1097
+network flow problem	1119
+travelling salesman problem	47637
+combinatorial optimization	8402
+linear programming	40395
+matroid theory	195
+sorting algorithms	173
+comparison sorts	0
+online sorts	0
+selection algorithms	0
+stable sorts	0
+string sorting algorithms	0
+compression algorithms	22
+lossless compression algorithms	0
+lossless audio codecs	0
+lossy compression algorithms	0
+audio codecs	49
+mp3	3799
+video codecs	110
+computer arithmetic algorithms	0
+pi algorithms	0
+shift-and-add algorithms	0
+concurrent algorithms	0
+concurrency control algorithms	0
+distributed algorithms	220
+agreement algorithms	0
+file sharing networks	12
+termination algorithms	0
+cryptographic algorithms	0
+asymmetric-key algorithms	0
+digital signature schemes	0
+public-key encryption schemes	0
+zero-knowledge protocols	0
+broken cryptography algorithms	0
+broken block ciphers	0
+emv	0
+broken hash functions	0
+broken stream ciphers	0
+cryptanalytic algorithms	0
+cryptographic hash functions	330
+extendable-output functions	0
+key derivation functions	0
+nist hash function competition	10
+cryptographically secure pseudorandom number generators	0
+information-theoretically secure algorithms	0
+integer factorization algorithms	2
+padding algorithms	0
+primality tests	10
+pseudoprimes	19
+symmetric-key algorithms	0
+authenticated-encryption schemes	0
+ciphers	239
+message authentication codes	221
+type 1 encryption algorithms	0
+advanced encryption standard	180
+type 2 encryption algorithms	0
+type 3 encryption algorithms	0
+data mining algorithms	0
+classification algorithms	0
+artificial neural networks	3071
+decision trees	221
+ensemble learning	14603
+cluster analysis algorithms	0
+database algorithms	0
+join algorithms	0
+digit-by-digit algorithms	0
+digital signal processing	19982
+acoustic fingerprinting	37
+audio editors	4
+macos audio editors	0
+free audio editors	0
+audio editing software for linux	0
+digital audio workstation software	0
+digital signal processors	184
+dsp starter kits	0
+image processors	0
+discrete transforms	0
+fft algorithms	0
+geometry processing	1054
+image processing	5573
+3d computer graphics	54
+3d imaging	0
+color	73964
+computer graphic artifacts	0
+digital photography	12313
+feature detection (computer vision)	4177
+graphics file formats	94
+image compression	8930
+image noise reduction techniques	0
+image processing software	0
+image segmentation	15400
+interpolation	28554
+mathematical morphology	3297
+medical imaging	24382
+sony image processing	0
+stereophotogrammetry	331
+wavelets	228
+multidimensional signal processing	265
+video processing	1460
+x-ray computed tomography	4683
+pitch modification software	0
+speech processing	1983
+speech processing software	0
+speech processing researchers	0
+speech synthesis	15462
+speech recognition	22026
+devices capable of speech recognition	0
+language modeling	32
+speech recognition hardware	0
+speech recognition software	14
+time每frequency analysis	0
+motion in computer vision	0
+video acceleration	16
+video compression	2253
+voice technology	0
+anti-stuttering devices	25
+psychoacoustics	8088
+speaker recognition	2739
+speech codecs	0
+biorthogonal wavelets	0
+continuous wavelets	118
+orthogonal wavelets	0
+anonymity networks	0
+anonymous file sharing networks	0
+bittorrent	2993
+direct connect network	0
+distributed data storage	113
+gnutella	5108
+gnutella2	953
+netsukuku	467
+streaming	431
+error detection and correction	17815
+capacity-achieving codes	0
+capacity-approaching codes	0
+hash functions	185
+hash function (non-cryptographic)	0
+evolutionary algorithms	791
+genetic programming	4730
+nature-inspired metaheuristics	1
+external memory algorithms	43
+fair division protocols	0
+fingerprinting algorithms	1
+graph drawing people	0
+graph drawing software	92
+planar graphs	94
+computational group theory	752
+heuristic algorithms	0
+metaheuristics	169
+line clipping algorithms	0
+machine learning algorithms	64
+matrix multiplication algorithms	0
+memory management algorithms	0
+automatic memory management	54
+networking algorithms	0
+network scheduling algorithms	0
+routing algorithms	4
+computational number theory	783
+number theoretic algorithms	0
+numerical analysis	19861
+approximation theory	3570
+theorems in approximation theory	0
+numerical artefacts	0
+finite differences	1003
+first order methods	0
+gradient methods	0
+numerical integration (quadrature)	8
+multivariate interpolation	3545
+splines (mathematics)	0
+iterative methods	112
+optimization algorithms and methods	0
+relaxation (iterative methods)	0
+mathematical optimization	29399
+mathematical optimization in business	0
+convex optimization	10158
+deterministic global optimization	460
+mathematical optimization software	71
+optimization of ordered sets	0
+pareto efficiency	33285
+relaxation (approximation)	1130
+stochastic optimization	4003
+optimization in vector spaces	0
+mesh generation people	0
+mesh generators	0
+triangulation (geometry)	1102
+monte carlo methods	5
+markov chain monte carlo	38
+monte carlo methods in finance	0
+monte carlo methodologists	0
+monte carlo software	5
+non-uniform random numbers	0
+quantum monte carlo	0
+variance reduction	1552
+numerical analysts	0
+approximation theorists	0
+people associated with the finite element method	0
+numerical differential equations	0
+computational fluid dynamics	18762
+domain decomposition methods	665
+finite element method	33623
+runge每kutta methods	0
+numerical linear algebra	2256
+least squares	46441
+matrix decompositions	0
+sparse matrices	18
+numerical software	40
+finite element software	0
+numerical libraries	0
+numerical analysis software for linux	0
+numerical analysis software for macos	0
+numerical analysis software for windows	0
+numerical programming languages	0
+pi-related software	0
+polynomials	450
+generating functions	121
+homogeneous polynomials	22
+orthogonal polynomials	4641
+polynomial functions	0
+rational functions	178
+series expansions	2
+symmetric functions	95
+root-finding algorithms	80
+structural analysis	7789
+online algorithms	30
+decomposition methods	0
+dynamic programming	32241
+polyhedra	512
+pattern matching	6777
+permutation patterns	5
+phonetic algorithms	0
+pattern matching programming languages	0
+rust (programming language)	53725
+regular expressions	1433
+finite automata	326
+string matching algorithms	0
+computational physics	5353
+computational electromagnetics	2341
+electromagnetic simulation software	0
+turbulence models	77
+computational particle physics	354
+monte carlo particle physics software	0
+computational physicists	0
+cosmological simulation	0
+electronic structure methods	0
+density functional theory	15497
+post-hartree每fock methods	0
+semiempirical quantum chemistry methods	0
+lattice models	46
+percolation theory	5559
+quantum lattice models	0
+molecular dynamics	10906
+force fields	37
+molecular dynamics software	0
+physics software	0
+atmospheric radiative transfer codes	700
+computer physics engines	0
+density functional theory software	0
+free physics software	0
+molecular modelling software	0
+optical software	0
+pseudo-polynomial time algorithms	0
+pseudorandom number generators	154
+quantum algorithms	204
+recursion	22776
+fixed points (mathematics)	0
+bifurcation theory	7803
+fixed-point theorems	8
+limit sets	0
+mathematical induction	36518
+wellfoundedness	4
+recurrence relations	51
+fibonacci numbers	1151
+recursion schemes	0
+reduction (complexity)	3460
+scheduling algorithms	71
+disk scheduling algorithms	0
+processor scheduling algorithms	0
+linux kernel process schedulers	0
+search algorithms	218
+hashing	212
+hash based data structures	0
+internet search algorithms	0
+link analysis	2809
+signal processing	16288
+audio electronics	957
+audio amplifier specifications	0
+audio amplifiers	0
+digital audio	10751
+dynamics processing	0
+audio effects	73
+audio equipment manufacturers	0
+audio mixing	2677
+music hardware	13
+sound production technology	0
+signal connectors	0
+sound archives	0
+synchronization	6135
+tone, eq and filter	0
+audio transducers	0
+detection theory	8438
+encodings	17
+barcodes	378
+call signs	539
+character encoding	22865
+character sets	185
+coding theory	9755
+color codes	15
+data serialization formats	0
+geocodes	18
+language of flowers	13492
+line codes	0
+morse code	159421
+numeral systems	81
+signage	8790
+symbols	1871
+timecodes	0
+unified code for units of measure	0
+writing systems	1405
+signal processing filter	99
+electronic filter applications	0
+electronic filter topology	2032
+filter theory	68
+signal processing metrics	0
+noise (electronics)	9157
+noise (graphics)	0
+radar signal processing	7
+statistical signal processing	512
+frequency-domain analysis	0
+signal estimation	0
+time domain analysis	0
+transducers	401
+actuators	1047
+battery (electricity)	12835
+electrical generators	175
+light-emitting diodes	613
+optical diodes	0
+piezoelectric materials	0
+sensors	3471
+transfer functions	0
+transient response characteristics	0
+signal processing stubs	0
+statistical algorithms	5
+randomized algorithms	349
+computational statistics	3102
+algorithmic inference	239
+deep learning	73043
+neural network software	890
+data mining	51214
+applied data mining	0
+artificial intelligence conferences	0
+cluster analysis	42964
+data brokers	28
+data miners	0
+data mining and machine learning software	0
+dimension reduction	483
+process mining	4873
+computational statistics journals	0
+statistical databases	0
+statistical software	428
+econometrics software	33
+free statistical software	1045
+microsoft office-related statistical software	0
+plotting software	0
+regression and curve fitting software	0
+statistical programming languages	0
+statistical survey software	0
+time series software	0
+streaming algorithms	34
+algorithms on strings	0
+parsing algorithms	1
+problems on strings	0
+string similarity measures	0
+string collation algorithms	0
+unicode algorithms	0
+analysis of algorithms	10017
+amortized data structures	0
+analysis of parallel algorithms	1232
+parameterized complexity	1846
+graph minor theory	0
+data structures	1159
+arrays	86
+associative arrays	429
+bit data structures	0
+compiler structures	0
+data structures by computing platform	0
+data structures libraries and frameworks	0
+database index techniques	0
+b-tree	30535
+r-tree	8186
+distributed data structures	0
+functional data structures	0
+geometric data structures	0
+computer graphics data structures	0
+graph data structures	0
+kinetic data structures	0
+linked lists	43
+probabilistic data structures	0
+string data structures	0
+succinct data structure	990
+trees (data structures)	0
+binary trees	293
+search trees	0
+tree programming languages	0
+algorithms and data structures stubs	0
+artificial intelligence	283249
+affective computing	3839
+social robots	39
+ai accelerators	0
+artificial intelligence applications	5
+agent-based software	0
+financial markets software	0
+electronic trading platforms	0
+electronic trading systems	0
+society for worldwide interbank financial telecommunication	0
+technical analysis software	301
+virtual assistants	0
+fictional virtual assistants	0
+applied machine learning	0
+alphago	170
+automated planning and scheduling	4990
+scheduling (computing)	17302
+i/o scheduling	0
+job scheduling	310
+computer vision software	0
+3d graphics software	15
+bioimaging software	0
+neuroimaging software	33
+photogrammetry software	331
+raw image processing software	0
+expert systems	1315
+medical expert systems	0
+face recognition	804
+facial expressions	418
+facial recognition software	173
+free artificial intelligence applications	0
+handwriting recognition	4607
+natural language processing	51855
+corpus linguistics	6192
+concordances (publishing)	0
+corpora	60
+corpus linguists	0
+corpus linguistics journals	0
+natural language processing toolkits	0
+machine translation	13835
+evaluation of machine translation	679
+machine translation software	0
+natural language generation	1473
+natural language processing software	0
+chatbots	361
+statistical natural language processing	53
+tasks of natural language processing	0
+natural language parsing	79
+word-sense disambiguation	3544
+machine translation software for linux	0
+optical character recognition	34606
+automatic number plate recognition	2158
+music ocr software	0
+speech synthesis software	0
+argument technology	135
+argument mapping	74
+argument maps	6
+artificial intelligence associations	0
+association for the advancement of artificial intelligence	7
+fellows of the association for the advancement of artificial intelligence	0
+presidents of the association for the advancement of artificial intelligence	0
+automated reasoning	3121
+automated theorem proving	5373
+satisfiability problems	0
+sat solvers	0
+smt solvers	0
+theorem proving software systems	0
+free theorem provers	0
+proof assistants	14
+unification (computer science)	2854
+substitution (logic)	1545
+rule engines	10
+type inference	5179
+cloud robotics	1006
+cognitive architecture	2209
+computer vision	30492
+3d graphic artifacts	0
+3d graphics apis	0
+3d graphics art	0
+3d graphics file formats	0
+3d rendering	61
+directx	279
+graphical projections	0
+3d graphics models	0
+opengl	496
+ray tracing (graphics)	42459
+rendering apis available on linux	0
+shading	5829
+texture compression	589
+texture filtering	2131
+texture mapping	6992
+3d films	0
+3d films by country	0
+3d films by decade	0
+3d films by year	0
+3d re-releases	0
+4d films	0
+3d animated films	0
+3d concert films	0
+3d documentary films	0
+lists of 3d films	0
+3d short films	0
+perspective projection	871
+holography	33299
+holonomic brain theory	2395
+holographic data storage	4970
+holography in fiction	994
+holography industry	0
+mobile phones with stereo camera	0
+3d scanners	0
+stereoscopy	14988
+3d cinema	0
+3d television	0
+stereo cameras	308
+stereoscopic photography	5
+video games with stereoscopic 3d graphics	0
+applications of computer vision	93
+augmented reality	72432
+augmented reality applications	0
+augmented reality in fiction	0
+gesture recognition	6511
+d-beam	0
+image search	1402
+machine vision	10285
+remote sensing	25834
+china每brazil earth resources satellite program	0
+satellite meteorology and remote sensing	0
+remote sensing organizations	0
+remote sensing archaeologists	0
+satellite imagery	15484
+remote sensing software	1029
+space imagers	0
+synthetic aperture radar	4014
+telepresence	5059
+robot navigation	2082
+robots	994
+robots in fiction	48
+robots by country	0
+robots by date	0
+robots by environment	0
+robots by fuel	0
+android (robot)	17293
+automata (mechanical)	0
+autonomous ships	0
+ecological robots	0
+educational robots	0
+entertainment robots	0
+handling robots	0
+health care robotics	0
+historical robots	0
+hobbyist robots	0
+individual robots	0
+industrial robots	316
+medical robots	49
+micro robots	0
+military robots	93
+online robots	0
+open-source robots	0
+robot parts	0
+personal assistant robots	0
+prototype robots	0
+rescue and protection robots	0
+robotic exoskeletons	0
+self-driving cars	525
+service robots	0
+sex robots	290
+robot sports	0
+sports robots	0
+telepresence robots	1
+robotic telescopes	9
+unmanned vehicles	9
+works about robots	0
+darpa grand challenge	22
+commercial computer vision systems	0
+computer vision research infrastructure	0
+datasets in computer vision	0
+digital topology	420
+geometry in computer vision	0
+colors	1411
+color appearance phenomena	0
+color engravers	0
+comics colorists	0
+color in culture	0
+color depths	0
+eye color	81226
+films by color process	0
+color fixers	0
+gases with color	0
+hair color	1741
+color models	46
+color names	21
+optical spectrum	1149
+color organizations	0
+color photography	18476
+rainbow	72509
+color redirects	0
+color schemes	59
+color scientists	0
+color vision	15461
+warning coloration	567
+color templates	0
+digital cameras	613
+image sensors	433
+image sharing websites	0
+photo software	0
+adobe flash	2735
+gis file formats	0
+high dynamic range file formats	0
+jbig	61
+jpeg	1589
+pdf standards	0
+png	2064
+raster graphics file formats	133
+vector graphics file formats	191
+sony image processors	0
+computational anatomy	745
+contrast agents	103
+electrophysiology	10022
+magnetic resonance imaging	94221
+medical imaging by system	0
+medical photography and illustration	0
+optical imaging	341
+positron emission tomography	44282
+radiology	26427
+tomography	10024
+medical ultrasonography	6387
+image sensor technology in computer vision	0
+learning in computer vision	0
+motion capture	18248
+motion capture actors	0
+motion capture in film	0
+motion capture in video games	0
+object recognition and categorization	0
+photogrammetry	17353
+aerial photography	18970
+aerial cameras	0
+aerial photographers	0
+space photography and videography	0
+photogrammetry organizations	0
+computer vision researchers	0
+fellows of the international association for pattern recognition	0
+signal processing conferences	0
+evolutionary computation	4737
+artificial life	4539
+artificial life in fiction	0
+cellular automata in popular culture	1
+digital organisms	4
+emergence	26056
+complex dynamics	999
+emergent gameplay	3194
+enactive cognition	0
+holism	11354
+interaction	12741
+philosophy of mind	16551
+quasiparticles	254
+reductionism	20134
+social systems	188
+superorganisms	10
+systems science	3951
+systems thinking	5029
+artificial life models	0
+researchers of artificial life	0
+self-replication	3080
+self-replicating machines	100
+reprap project	0
+artificial trees	21
+artificial christmas trees	0
+virtual babies	0
+virtual baby video games	0
+virtual pets	179
+creatures (artificial life program)	1284
+digimon	44191
+handheld virtual pets	0
+monster rancher	359
+neopets	9928
+pok谷mon	0
+tamagotchi	47260
+virtual pet video games	0
+interactive evolutionary computation	306
+existential risk from artificial general intelligence	9226
+artificial intelligence in fiction	4142
+android (robot) fiction	0
+android (robot) comics	0
+chobits	7425
+dr. slump	35
+terminator comics	7
+android (robot) films	0
+terminator films	91
+android (robot) video games	0
+astro boy video games	0
+mega man (original series)	0
+mega man x games	0
+mega man zero games	0
+terminator video games	382
+androids in literature	0
+astro boy	269
+androids in television	0
+terminator: the sarah connor chronicles	0
+blade runner	2187
+blade runner shooting locations	0
+blade runner spin-offs	0
+fictional androids	0
+cylons	35
+fictional gynoids	2
+music videos featuring gynoids	0
+female transformers	0
+artificial intelligence characters in video games	0
+robot characters in video games	0
+transformers characters in video games	0
+code lyoko	140
+code lyoko images	0
+video games based on code lyoko	0
+destination: void universe	0
+fictional artificial intelligences	0
+dungeons & dragons constructs	229
+films about artificial intelligence	0
+knight rider films	0
+the matrix (franchise) films	0
+knight rider	473
+knight rider characters	0
+knight rider episodes	5
+knight rider (1982 tv series) seasons	0
+knight rider television series	0
+knight rider video games	0
+the matrix (franchise)	0
+the matrix (franchise) characters	0
+the matrix (franchise) music	0
+the matrix (franchise) albums	0
+the matrix (franchise) video games	0
+fictional robots	0
+dc comics robots	0
+metal men	0
+fictional robotic dinosaurs	0
+dinobots	6322
+robotic pterosaurs	0
+fictional robotic dogs	0
+fictional mecha	0
+transformers robot characters	0
+gobots	4148
+fictional humanoid robots	0
+fictional robotic insects	0
+fictional robotic martial artists	0
+transformers (franchise)	64
+marvel comics robots	0
+robotic dragons	0
+robot superheroes	0
+autobots	1090
+robot supervillains	0
+decepticons	629
+star wars droid characters	0
+terminator (franchise)	302224
+terminator characters	0
+terminator: the sarah connor chronicles character redirects to lists	0
+works based on terminator (franchise)	0
+tom clancy's net force	0
+fuzzy logic	25664
+predicate logic	3118
+mathematical relations	0
+approximations	55
+binary relations	43
+functions and mappings	5
+graph theory	40644
+relational algebra	18810
+quantification	688
+game artificial intelligence	423
+card game video games	4
+card battle video games	0
+magic: the gathering software	0
+yu-gi-oh! video games	0
+poker video games	0
+computer chess	6219
+chess engines	328
+chess software	62
+free chess software	0
+internet chess servers	0
+computer chess competitions	0
+computer olympiads	0
+computer chess people	0
+computer go	99
+go software (game)	0
+computer poker players	184
+computer shogi	626
+internet shogi servers	0
+shogi software	0
+computer draughts players	0
+human versus computer matches	0
+history of artificial intelligence	20502
+human每computer interaction	0
+knowledge engineering	2012
+knowledge representation	2759
+belief revision	858
+cognitive inertia	2072
+classification systems	0
+classification systems by subject	0
+biogeographic realms	0
+biomes	813
+ecoregions	363
+ecosystems	2720
+flynn's taxonomy	4274
+geographic taxonomies	0
+grouping	97
+hornbostel每sachs	0
+library cataloging and classification	0
+rating	2593
+scientific classification	1899
+stock market indices	39
+taxonomy	11784
+unesco nomenclature	0
+computational fields of study	0
+algorithmic art	2257
+automata (computation)	0
+cellular automata	1758
+chaos theory	65562
+cheminformatics	3669
+complex systems theory	285
+computational archaeology	539
+computational astronomy	0
+computational biology	10422
+computational chemistry	8114
+computational complexity theory	17668
+computational geometry	6424
+computational mathematics	4590
+computational neuroscience	4956
+computational social science	2712
+digital humanities	9110
+scientific visualization	2333
+dewey decimal classification	91
+articles about multiple people	0
+functional groups	532
+galaxy clusters	194
+group theory	19286
+groups (military aviation)	0
+human haplogroups	0
+lake groups	0
+language families	2225
+lists of groups with specific numbers of members	0
+minor planet groups and families	0
+parliamentary groups	19
+group portraits	0
+satellite constellations	0
+social groups	426
+stellar groupings	0
+volcanic groups	0
+knowledge bases	0
+knowledge representation languages	17
+domain-specific knowledge representation languages	0
+ontology languages	0
+resource description framework	573
+knowledge representation software	0
+concept mapping software	0
+mind-mapping software	0
+ontology editors	0
+lexical databases	0
+library of congress classification	0
+microformats	405
+minimum information standards	9
+multi-agent systems	260
+agent-based programming languages	0
+agent-oriented programming languages	0
+botnets	390
+ontology (information science)	16218
+ontology learning (computer science)	0
+semantic desktop	289
+semantic web	1664
+semantic web companies	0
+folksonomy	5124
+semantic web people	0
+semantic html	0
+semantic wikis	0
+triplestores	0
+thesauri	110
+classes of angel	0
+biological classification	8513
+car classifications	952
+character classes	514
+chemical classification	3832
+classes of computers	19610
+complexity classes	84
+disability sport classifications	0
+film awards by category	0
+geographic classifications	0
+grammy award categories	0
+language classification	501
+media content ratings systems	0
+medical classification	4907
+classification of minerals	297
+motorcycle classifications	0
+nursing classification	0
+classification of obesity	16703
+patent classifications	1
+pharmacological classification systems	0
+racing car classes	0
+rail transport classification systems	0
+rock mass classification	831
+sailing by class	0
+sailing classes	6
+ship classes	12
+social classes	211
+software companies by category	0
+star types	50
+statistical classification	15263
+stellar astronomy classification systems	0
+television awards by category	0
+travel classes	0
+weight classes	3803
+wine classification	48
+biota by biogeographic realm	0
+afrotropic ecozone	386
+antarctic ecozone	336
+australasian ecozone	372
+ecozones of canada	0
+holarctic	3061
+indomalaya ecozone	945
+nearctic ecozone	752
+neotropic ecozone	2212
+oceania ecozone	262
+palearctic ecozone	1108
+aquatic biomes	0
+microbiomes	7
+terrestrial biomes	0
+ecoregions by continent	0
+ecoregions by country	0
+ecoregion stubs	0
+freshwater ecoregions	8
+marine ecoregions	278
+terrestrial ecoregions	85
+endangered ecological communities	0
+grasslands	715
+ecoregions by landform	0
+lists of ecoregions	626
+swamps	726
+wwf ecoregions	0
+systems ecology	3130
+aquatic ecology	189
+deserts	762
+forests	911
+old growth forests	55
+shrublands	26
+tropical rainforests	571
+greater yellowstone ecosystem	0
+lists of airports by icao code	0
+country codes	1181
+country subdivision codes	0
+fips 10	0
+geographic coordinate lists	0
+geographic object identifiers	0
+geolocation	9619
+iso 3166	204
+lists of airports by iata code	0
+lists of postal codes	0
+nomenclature of territorial units for statistics	28
+telephone numbers by country	0
+un/locode	0
+united nations geoscheme	0
+countries	3171
+library catalogues	0
+oclc	1280
+rankings	353
+credit rating	25522
+rating systems	0
+top lists	0
+morphology	2316
+wikipedia books on scientific classification	0
+stock market indices by continent	0
+stock market indices by country	0
+stock market indices by industry	0
+companies by stock market index	0
+ethical investment stock market indices	0
+global stock market indices	0
+s&p dow jones indices	25250
+wikipedia categories named after stock market indices	0
+taxonomy (biology)	103900
+economic taxonomy	309
+turing machine	58763
+cellular automatists	0
+cellular automaton patterns	0
+cellular automaton rules	0
+cellular automaton software	0
+fractals	1670
+chaotic maps	0
+nonlinear systems	127
+quantum chaos theory	0
+self-organization	7207
+chaos theorists	0
+chemical databases	4
+chemistry software	0
+combinatorial chemistry	4729
+complex systems scientists	0
+complexity economics	1638
+measures of complexity	0
+systems journals	0
+archaeological databases	0
+astronomical databases	0
+virtual observatories	0
+computational biologists	0
+bioinformatics	34844
+bioinformatics and computational biology journals	0
+fellows of the international society for computational biology	0
+computational chemists	0
+computational chemistry software	0
+circuit complexity	1348
+computational hardness assumptions	27
+computational problems	47
+computational resources	6
+descriptive complexity	117
+np-complete problems	0
+quantum complexity theory	4167
+quantum computing	208451
+strongly np-complete problems	0
+structural complexity theory	115
+theorems in computational complexity theory	0
+convex hull algorithms	5724
+computational problems in graph theory	0
+neural coding	5179
+neurotechnology	3071
+computational social scientists	0
+digital history projects	0
+digital humanities centers	0
+digital humanities projects	0
+text encoding initiative	0
+flow visualization	2056
+articles about multiple people in pre-tang china	0
+articles about multiple people in ancient greece	0
+articles about multiple people in ancient rome	0
+duos	0
+trios	31
+quartets	49
+quintets	0
+sextets	0
+septets	0
+octets	21
+nonets	0
+the fourteen infallibles	3
+group of thirty	0
+articles about multiple people in the bible	0
+articles about multiple fictional characters	0
+married couples	111
+martyred groups	0
+multiple births	136
+nicknamed groups of sportspeople	0
+collective pseudonyms	0
+quantified groups of defendants	0
+articles about multiple people in the quran	0
+groups of christian saints	0
+sibling groups	0
+acetals	38
+acyl groups	0
+acyl halides	40
+alkenyl groups	0
+alkoxides	43
+alkoxy groups	0
+alkynyl groups	0
+amides	144
+amidines	76
+amine oxides	2
+amines	758
+carbodiimides	17
+carboximidates	0
+carboxylic acids	449
+cyanamides	0
+cyanates	13
+dithiocarbamates	20
+enols	8
+esters	887
+ethers	326
+formals	0
+hydrazines	424
+hydrazones	22
+hydroxamic acids	64
+imides	11
+isocyanates	2354
+isocyanides	0
+isopropenyl compounds	0
+isopropyl compounds	0
+isothiocyanates	309
+ketals	0
+ketenes	38
+ketones	826
+lactols	0
+leaving groups	0
+nitriles	215
+organohalides	0
+organophosphorus compounds	90
+oximes	164
+phosphonofluoridates	0
+phosphonothioates	0
+phosphoramidothioates	0
+phosphorodithioates	0
+phosphorofluoridates	0
+phosphorothioates	0
+protecting groups	83
+pyrophosphates	0
+semicarbazides	0
+semicarbazones	25
+sulfamates	0
+sulfonate esters	0
+sulfones	106
+sulfonic acids	8
+sulfonyl groups	0
+sulfoximines	0
+sulfuryl compounds	0
+thioaldehydes	0
+thioamides	29
+thiocyanates	73
+thioesters	33
+thioketones	0
+thiolates	3
+thiophosphoryl compounds	0
+thiosemicarbazone	37
+thiosulfinates	0
+trimethylsilyl compounds	0
+astronomical catalogues of galaxy clusters	0
+galaxy superclusters	9
+abell 262	164
+abell 400	109
+abell 1185	49
+abell 2162	62
+abell 2199	108
+abell 3742	30
+antlia cluster	0
+canes ii group	0
+centaurus a/m83 group	0
+centaurus cluster	20
+coma cluster	65
+coma i group	0
+dorado group	2
+eridanus group	2
+fornax cluster	78
+hercules cluster	21
+hydra cluster	3
+ic 342/maffei group	0
+leo cluster	0
+leo triplet	0
+local group	276
+m51 group	0
+m74 group	0
+m81 group	46
+m94 group	0
+m96 group	0
+m101 group	24
+m109 group	0
+ngc 1023 group	0
+ngc 2841 group	0
+ngc 4038 group	0
+ngc 4065 group	0
+ngc 4631 group	0
+ngc 5866 group	0
+ngc 7331 group	0
+norma cluster	158
+perseus cluster	64
+robert's quartet	0
+sculptor group	1
+stephan's quintet	0
+ursa major cluster	0
+virgo cluster	227
+galaxy cluster stubs	0
+theorems in group theory	0
+abelian group theory	0
+algebraic groups	37
+group automorphisms	0
+combinatorial group theory	413
+coxeter groups	20
+finite groups	59
+functional subgroups	0
+galois theory	10385
+geometric group theory	1680
+group theorists	0
+infinite group theory	18
+lie groups	288
+moonshine theory	1225
+ordered groups	0
+p-groups	0
+permutation groups	52
+properties of groups	0
+reflection groups	0
+representation theory	7818
+representation theory of groups	0
+subgroup properties	0
+subgroup series	568
+topological groups	106
+air force groups of canada	0
+air force groups of the united kingdom	0
+air groups of the united states	0
+groups of the imperial japanese navy air service	0
+raaf groups	0
+human mhc haplogroups	0
+human mtdna haplogroups	0
+human y-dna haplogroups	0
+african great lakes	0
+arrow lakes	0
+great lakes	821
+lake district	263
+lakes of shatsk	0
+administrative territorial entities by language family	0
+ethnic groups by language family	0
+linguists by language group of study	0
+sign languages	422
+afroasiatic languages	28107
+ainu languages	5067
+alacalufan languages	295
+algic languages	3841
+alsean languages	43
+amto每musan languages	0
+angan languages	218
+anim languages	83
+arafundi languages	92
+araucanian languages	757
+arawakan languages	3973
+arawan languages	392
+atlantic每congo languages	0
+austroasiatic languages	18943
+austronesian languages	27352
+aymaran languages	977
+baining languages	270
+barbacoan languages	444
+berta languages	265
+boran languages	226
+border languages (new guinea)	0
+bororoan languages	104
+bosavi languages	108
+bulaka river languages	0
+bunuban languages	289
+caddoan languages	1807
+cahuapanan languages	277
+cariban languages	1407
+catacaoan languages	182
+central sudanic languages	4
+chapacuran languages	333
+charruan languages	454
+chibchan languages	1332
+chicham languages	137
+chimakuan languages	492
+chinookan languages	1126
+choco languages	876
+chonan languages	779
+chukotko-kamchatkan languages	0
+chumashan languages	1642
+comecrudan languages	334
+coosan languages	281
+dagan languages	105
+daju languages	248
+dizoid languages	146
+dogon languages	1221
+doso每turumsa languages	0
+dravidian languages	33516
+east geelvink bay languages	4
+east kutubuan languages	0
+east strickland languages	0
+eastern daly languages	0
+eastern jebel languages	2
+eastern trans-fly languages	0
+eleman languages	236
+eskimo每aleut languages	0
+fas languages	201
+fur languages	253
+garawan languages	301
+gogodala每suki languages	0
+goilalan languages	65
+great andamanese languages	0
+guaicuruan languages	374
+guajiboan languages	276
+gumuz languages	151
+gunwinyguan languages	133
+har芍kmbut languages	0
+hatam每mansim languages	0
+heiban languages	69
+hibito每cholon languages	0
+hmong每mien languages	0
+huarpean languages	80
+hurro-urartian languages	0
+ijoid languages	293
+inanwatan languages	33
+indo-european languages	119
+international auxiliary languages	57
+iroquoian languages	6756
+iwaidjan languages	266
+japonic languages	11914
+jarrakan languages	285
+jicaquean languages	338
+jirajaran languages	209
+jodi-saliban languages	0
+kadu languages	490
+kakua-nukak languages	0
+kalapuyan languages	549
+kamula-elevala languages	0
+kariri languages	131
+kartvelian languages	9632
+katla languages	194
+katukinan languages	136
+kayagar languages	24
+keresan languages	976
+khoe-kwadi languages	0
+kiwaian languages	231
+koiarian languages	142
+kolopom languages	68
+koman languages	356
+konda-yahadian languages	0
+koreanic languages	5549
+kra每dai languages	0
+kresh languages	113
+kuliak languages	359
+kunama languages	193
+kwalean languages	54
+kwerbic languages	62
+kwomtari languages	245
+kx'a languages	383
+lafofa languages	153
+lakes plain languages	36
+language isolates	89
+left may languages	1
+lencan languages	579
+lepki每murkim languages	0
+limilngan languages	41
+lule每vilela languages	0
+maban languages	392
+macro-j那 languages	0
+maiduan languages	475
+mailuan languages	63
+mairasi languages	193
+mande languages	3075
+mangarrayi-maran languages	0
+maningrida languages	133
+mantion每meax languages	0
+manubaran languages	66
+mao languages	303
+marrku每wurrugu languages	0
+mascoian languages	250
+matacoan languages	340
+mayan languages	10534
+mirndi languages	268
+misumalpan languages	580
+mixe-zoque languages	0
+mombum languages	36
+mongol每langam languages	0
+mongolic languages	7149
+monumbo languages	83
+muran languages	114
+muskogean languages	3015
+na-dene languages	0
+nadahup languages	382
+nambikwaran languages	227
+namla每tofanma languages	0
+ndu languages	153
+nilotic languages	2163
+nimboran languages	117
+nivkh languages	1263
+north bougainville languages	0
+north halmahera languages	0
+northeast caucasian languages	17
+northeastern tasmanian languages	0
+northwest caucasian languages	19
+nubian languages	3069
+nyima languages	120
+nyulnyulan languages	357
+ongan languages	1181
+orya每tor languages	0
+oto-manguean languages	0
+otom芍koan languages	0
+pahoturi languages	80
+palaihnihan languages	414
+pama每nyungan languages	0
+pano-tacanan languages	0
+pauwasi languages	282
+peba每yaguan languages	0
+piawi languages	92
+pomoan languages	914
+proposed language families	2
+proto-languages	130
+purian languages	80
+quechuan languages	16208
+ramu每lower sepik languages	0
+rashad languages	259
+sahaptian languages	436
+saharan languages	699
+salishan languages	4492
+senagi languages	198
+sentani languages	195
+sepik languages	531
+shastan languages	370
+sign language families	13
+sino-tibetan languages	39
+siouan languages	5202
+skou languages	272
+somahai languages	54
+songhay languages	1864
+south bird's head languages	0
+south bougainville languages	0
+south omotic languages	0
+southern daly languages	0
+surmic languages	228
+ta-ne-omotic languages	0
+talodi languages	44
+asteroid groups and families	0
+distant minor planet groups and families	0
+all-party parliamentary groups	0
+parliamentary groups in canada	0
+european parliament party groups	0
+parliamentary groups in france	0
+technical parliamentary groups	0
+militia group portraits	0
+communications satellite constellations	0
+social groups by country	0
+artist groups and collectives	0
+clergy	17298
+collectives	194
+communities	1530
+corporate groups	33
+crowds	296
+cults	1024
+cultures	808
+estates (social groups)	0
+ethnic groups	2561
+ethno-cultural designations	0
+gentry	12830
+high society	881
+jewish society	23
+mapuche society	0
+mass disappearances	0
+movements	92
+nobility	33202
+organized crime	35633
+passing (sociology)	3070
+performing groups	0
+perpetual travellers	0
+group processes	80
+social stereotypes	0
+teams	183
+asterisms (astronomy)	0
+constellations	1150
+multiple stars	5
+volcanoes of the gal芍pagos islands	0
+heard island and mcdonald islands	0
+bibliography file formats	0
+web ontology language	245
+rdf data access	0
+rss	4080
+sparql	154
+concept- and mind-mapping software for linux	0
+concept- and mind-mapping software programmed in java	0
+computer security companies specializing in botnets	0
+semantic wiki software	0
+artificial intelligence laboratories	0
+logic programming	10158
+logic programming researchers	0
+constraint logic programming	1145
+constraint programming	5826
+constraint programming languages	0
+inductive logic programming	1680
+logic programming languages	0
+functional logic programming languages	0
+prolog programming language family	0
+normal forms (logic)	0
+machine learning	138833
+bayesian networks	917
+clustering criteria	0
+computational learning theory	2525
+social network analysis software	3315
+datasets in machine learning	0
+factor analysis	30638
+kernel methods for machine learning	0
+support vector machines	1080
+latent variable models	0
+structural equation models	26
+log-linear models	0
+loss functions	147
+machine learning portal	0
+machine learning task	0
+markov models	13
+hidden markov models	0
+markov networks	26
+reinforcement learning	48075
+machine learning researchers	0
+semisupervised learning	56
+structured prediction	2362
+graphical models	119
+causal inference	8648
+supervised learning	31564
+unsupervised learning	26775
+mind每body problem	0
+neural network data exchange formats	0
+open-source artificial intelligence	0
+philosophy of artificial intelligence	6700
+singularitarianism	1912
+singularitarians	73
+artificial intelligence publications	0
+artificial intelligence researchers	0
+fellows of the ssaisb	0
+robotics	56258
+robots in television	0
+robot animation	0
+robot comics	0
+robot films	0
+robots in literature	592
+video games about robots	0
+biorobotics in fiction	0
+drones in fiction	0
+fictional roboticists	0
+mecha	14669
+powered exoskeletons in fiction	71
+self-replicating machines in fiction	1270
+songs about robots	0
+star wars	6639
+space probes by country	0
+robots of australia	0
+robots of austria	0
+robots of brazil	0
+robots of canada	0
+robots of chile	0
+robots of china	0
+robots of croatia	0
+robots of france	0
+robots of germany	0
+robots of hungary	0
+robots of india	0
+robots of iran	0
+robots of israel	0
+robots of italy	0
+robots of japan	0
+robots of malaysia	0
+robots of mexico	0
+robots of the netherlands	0
+robots of new zealand	0
+robots of pakistan	0
+robots of portugal	0
+robots of russia	0
+robots of saudi arabia	0
+robots of singapore	0
+robots of south korea	0
+robots of the soviet union	0
+robots of spain	0
+robots of sweden	0
+robots of switzerland	0
+robots of the united arab emirates	0
+robots of the united kingdom	0
+robots of the united states	0
+robots of vietnam	0
+robots of yemen	0
+robots by century	0
+robots by decade	0
+robots by year	0
+aerobots	0
+land robots	0
+space robots	0
+underwater robots	0
+nuclear-powered robots	0
+solar-powered robots	0
+androids	135
+automata in greek mythology	0
+chess automatons	0
+robot kits	1
+animatronic robots	0
+robot musicians	0
+toy robots	13
+robot hands	0
+laboratory robots	0
+robotic manipulators	4
+bionics	8038
+medical robotics	12
+flower robots	0
+humanoid robots	49
+individual mecha	0
+robotic animals	0
+diagnostic robots	0
+disability robots	0
+rehabilitation robots	0
+surgical robots	0
+therapeutic robots	0
+micro air vehicles	4
+airborne military robots	0
+bomb disposal robots	0
+irobot	176
+unmanned ground combat vehicles	0
+lego mindstorms	37
+robot heads	0
+robot legs	0
+domestic robots	181
+robotics competitions	0
+robot combat	4264
+robot football	6
+combat robots	362
+soccer robots	0
+wide angle search for planets	0
+missile guidance	7474
+radio control	4202
+uncrewed spacecraft	1022
+unmanned aerial vehicles	2894
+unmanned ground vehicles	47
+unmanned watercraft	0
+documentary films about robots	0
+robot games	0
+short stories about robots	0
+robotics by company	0
+robotics at boston dynamics	0
+robotics at fujitsu	0
+robotics at honda	0
+robotics at kawasaki	0
+robotics at kuka	0
+robotics at robotis	0
+robotics at seiko epson	0
+robotics at sony	0
+robotics at tosy	0
+robotics at unimation	0
+robotics by country	0
+roboticists by nationality	0
+american roboticists	0
+australian roboticists	0
+belgian roboticists	0
+british roboticists	0
+canadian roboticists	0
+chinese roboticists	0
+french roboticists	0
+german roboticists	0
+indian roboticists	0
+iranian roboticists	0
+israeli roboticists	0
+italian roboticists	0
+japanese roboticists	0
+nigerian roboticists	0
+portuguese roboticists	0
+serbian roboticists	0
+swedish roboticists	0
+swiss roboticists	0
+syrian roboticists	0
+turkish roboticists	0
+robotics in australia	0
+robotics in china	0
+robotics companies of china	0
+robotics in estonia	0
+robotics in france	0
+robotics in germany	0
+robotics companies of germany	0
+robotics in india	0
+industrial robotics by country	0
+industrial robotics in the united states	0
+robotics in iran	0
+robotics in japan	0
+robotics companies of japan	0
+robotics in the netherlands	0
+robotics in pakistan	0
+robotics in sweden	0
+robotics in the united kingdom	0
+robotics companies of the united kingdom	0
+robotics in the united states	0
+robotics companies of the united states	0
+history of robotics	20
+robotics by century	0
+20th century in robotics	0
+21st century in robotics	0
+robotics by year	0
+1910s in robotics	0
+1920s in robotics	0
+1930s in robotics	0
+1940s in robotics	0
+1950s in robotics	0
+1960s in robotics	0
+1970s in robotics	0
+1980s in robotics	0
+1990s in robotics	0
+2000s in robotics	0
+2010s in robotics	0
+adaptable robotics	708
+agricultural robotics	6
+robot architectures	0
+articulated robotics	0
+beam robotics	0
+biorobotics	4751
+robotic dinosaurs	0
+robotic dogs	0
+robotic snakes	0
+robotic spiders	0
+appleseed (media franchise)	0
+bipedal humanoid robots	0
+humanoid space robots	0
+robotics concepts	0
+robot control	969
+robot kinematics	2603
+delta robots	23
+parallel robots	12
+robot locomotion	2205
+robots by method of locomotion	0
+robotic sensing	607
+wireless robotics	0
+cyborgs	371
+cyborgs in fiction	583
+cyborg comics	0
+cyborgs in literature	0
+video games about cyborgs	0
+bionicle	16171
+cyborg films	0
+cyborgs in television	0
+cyborgs in anime and manga	0
+fictional cyborgs	3
+ghost in the shell	1095
+inspector gadget	230
+transhumanist books	0
+entertainment robotics	0
+animatronics	9603
+audio-animatronics	160
+animatronic engineers	0
+animatronic attractions	0
+animatronics companies	0
+robotics events	0
+robot combat competitions	0
+robot soccer competitions	0
+eurobot	108
+first lego league games	0
+first robotics competition games	0
+first tech challenge games	0
+google lunar x prize	0
+robocup	124
+robotic sailing competitions	0
+rover challenge series	0
+robotics hardware	0
+3d printers	0
+computer-assisted surgery	915
+home automation	23607
+robotic vacuum cleaners	0
+garage door openers	0
+garage door opener manufacturers	0
+home automation companies	0
+logitech	20753
+smart devices	509
+smart grid	19452
+internet of things	153154
+radio-frequency identification	61940
+smart cards	536
+smart speakers	210
+smart tv	1081
+smartphones	5976
+smartwatches	46
+thin clients	92
+smart home hubs	0
+temperature control	3602
+heat exchangers	2321
+residential heating appliances	0
+thermoregulation	18054
+industrial robotics	126
+3d printing	1538
+3d printing specialists	0
+3d printer companies	0
+3d printed objects	0
+3d printing processes	0
+3d publishing	0
+cnc	559
+industrial robotics companies	0
+industrial robotics companies by country	0
+deaths caused by industrial robots	0
+laws of robotics	9794
+robotics lists	0
+lists of fictional robots	0
+robotic manipulation	77
+cylindrical robots	0
+military robotics	0
+multi-robot systems	0
+robotics organizations	0
+robotics companies	0
+komatsu	505
+mecha companies	0
+robotic restaurants	0
+robotics companies by country	0
+wowwee	3
+physical computing	1105
+robotics projects	0
+robotic art	493
+monochrom	932
+roboticists	10
+robotics software	0
+robot operating systems	0
+robot programming languages	0
+robotics suites	0
+robotics simulation software	10
+armored core	128
+custom robo	0
+five nights at freddy's	0
+mega man games	0
+portal (video game series)	2475
+ratchet & clank	951
+rise of the robots	23
+robot combat video games	0
+video games about mecha	0
+works about robotics	0
+robotics books	0
+robotics magazines	0
+robotics stubs	0
+television series about robots	0
+animated films about robots	0
+mecha animation	0
+big hero 6	363
+mecha comics	0
+transformers comics	14
+american robot films	0
+drone films	1
+mecha films	0
+works by isaac asimov	0
+mecha in literature	0
+half-life (series)	303
+mecha games	3
+mechanical designers (mecha)	0
+toy mecha	0
+powered exoskeletons in comics	0
+powered exoskeletons in film	0
+starship troopers	722
+powered exoskeletons in television	0
+powered exoskeletons in video games	0
+warhammer 40,000	41187
+star wars characters	0
+star wars films	173
+star wars images	0
+star wars lists	0
+star wars locations	0
+star wars organizations	0
+star wars redirects	0
+star wars species	19
+star wars technology	0
+star wars wars and battles	0
+works about star wars	0
+works based on star wars	0
+star wars stubs	0
+star wars templates	0
+transformers animation	0
+transformers characters	16
+transformers films	10
+transformers images	0
+transformers lists	0
+transformers music	0
+transformers objects	0
+transformers redirects	0
+transformers (toy line)	7976
+transformers video games	0
+wikipedians who like transformers	0
+transformers stubs	0
+transformers templates	0
+european space agency space probes	0
+nasa space probes	0
+chinese space probes	0
+isro space probes	0
+japanese space probes	0
+russian space probes	0
+soviet space probes	0
+unmanned aerial vehicles of france	0
+karakuri	352
+satellites of japan	0
+unmanned aerial vehicles of pakistan	0
+unmanned aerial vehicles of the soviet union	0
+unmanned aerial vehicles of the united states	0
+16th-century robots	0
+17th-century robots	0
+18th-century robots	0
+19th-century robots	0
+20th-century robots	0
+21st-century robots	0
+1910s robots	0
+1920s robots	0
+1930s robots	0
+1940s robots	0
+1950s robots	0
+1960s robots	0
+1970s robots	0
+1980s robots	0
+1990s robots	0
+2000s robots	0
+2010s robots	0
+1928 robots	0
+1929 robots	0
+1937 robots	0
+1949 robots	0
+1956 robots	0
+1957 robots	0
+1962 robots	0
+1970 robots	0
+1972 robots	0
+1973 robots	0
+1975 robots	0
+1977 robots	0
+1978 robots	0
+1979 robots	0
+1981 robots	0
+1982 robots	0
+1983 robots	0
+1984 robots	0
+1985 robots	0
+1986 robots	0
+1987 robots	0
+1988 robots	0
+1989 robots	0
+1990 robots	0
+1991 robots	0
+1992 robots	0
+1993 robots	0
+1994 robots	0
+1995 robots	0
+1996 robots	0
+1997 robots	0
+1998 robots	0
+1999 robots	0
+2000 robots	0
+2001 robots	0
+2002 robots	0
+2003 robots	0
+2004 robots	0
+2005 robots	0
+2006 robots	0
+2007 robots	0
+2008 robots	0
+2009 robots	0
+2010 robots	0
+2011 robots	0
+2012 robots	0
+2013 robots	0
+2014 robots	0
+2015 robots	0
+2016 robots	0
+2017 robots	0
+climbing robots	3
+rolling robots	12
+walking robots	0
+planetary rovers	0
+autonomous underwater vehicles	0
+robotic submarines	0
+transforming toy robots	0
+unmanned military aircraft	0
+battlebots competitors	0
+robot wars competitors	0
+exoplanets discovered by wasp	0
+global positioning system	956
+radio-controlled aircraft	6075
+radio-controlled cars	0
+radio-controlled sailboats	0
+radio-controlled transmitter	0
+servos (radio control)	0
+cargo spacecraft	694
+solar sail spacecraft	0
+soyuz uncrewed test flights	0
+space observatories	24
+space probes	479
+unmanned aerial vehicles by country	0
+international unmanned aerial vehicles	0
+medium-altitude long-endurance unmanned aerial vehicles	0
+unmanned blimps	0
+counter unmanned air system	36
+drone strikes	203
+drone warfare	119
+unmanned experimental aircraft	0
+unmanned helicopters	0
+unmanned aerial vehicle manufacturers	0
+quadcopters	57
+regulation of unmanned aerial vehicles	894
+rockets and missiles	0
+unmanned aerial vehicle stubs	0
+unmanned surface vehicles	0
+unmanned underwater vehicles	0
+robot series short stories by isaac asimov	0
+turing tests	0
+artificial intelligence stubs	0
+computational science	7824
+scientific computing researchers	0
+indian computational chemists	0
+computational fluid dynamicists	0
+cellular automata in computer games	0
+life simulation games	6
+machinima	12770
+modularity	4903
+chemical bonding	719
+action (philosophy)	7652
+ancient greek philosophy of mind	0
+arguments in philosophy of mind	0
+concepts in the philosophy of mind	0
+intellectualism	3948
+metaphysics of mind	0
+moral psychology	3956
+phenomenology	2657
+philosophers of mind	0
+philosophy of mind literature	0
+philosophy of psychology	3155
+theory of mind	32208
+philosophy of mind images	0
+magnetic monopoles	468
+monism	23085
+teleology	21909
+caste	32918
+community	43308
+complaints organizations	0
+economic systems	624
+feudalism	70997
+information society	9054
+management systems	144
+mutualism (movement)	1272
+oligarchy	43915
+polygamy	48269
+social dynamics	3220
+fictional superorganisms	0
+systems biology	7887
+conceptual systems	102
+conformity	12198
+cybernetics	27208
+earth system sciences	0
+systems engineering	35872
+systems science literature	0
+operations research	27817
+systems sciences organizations	0
+systems psychology	2588
+systems scientists	20
+systems theory	36366
+systems theory stubs	0
+business continuity	1263
+futurology	1059
+quality management	18320
+technology assessment	2175
+theory of constraints	15940
+digimon anime and manga	0
+digimon media	0
+digimon video games	29
+digimon lists	0
+tamagotchi video games	0
+astronomical catalogues	3
+astronomical surveys	45
+astronomical catalogues of galaxies	0
+astronomical catalogues of nebulae	0
+astronomical catalogues of planets	0
+astronomical catalogues of stars	0
+star atlases	0
+2mass objects	0
+ancient greek astronomical works	0
+bayer objects	0
+caldwell objects	3
+cambridge surveys of radio sources	0
+cfbds objects	0
+denis objects	0
+eso objects	0
+flamsteed objects	0
+gould objects	0
+ic objects	0
+iras catalogue objects	0
+messier objects	221
+ngc objects	2
+rosat objects	0
+sdss objects	0
+trumpler catalog	0
+ugca objects	0
+ugps objects	0
+ulas objects	0
+wise objects	0
+astronomical catalogue stubs	0
+food databases	0
+chemical file formats	0
+chemistry software for linux	0
+chromatography software	668
+free chemistry software	0
+mass spectrometry software	194
+bioinformaticians	0
+indian bioinformaticians	0
+theoretical biologists	0
+biobanks	36
+biobank organizations	0
+gene banks	56
+genetic epidemiology	1306
+human genome projects	0
+biological sequence format	0
+biomedical informatics journals	0
+biorepositories	0
+animal sanctuaries	9
+arboreta	42
+biological databases	147
+botanical gardens	265
+cannabis seed banks	0
+cryopreservation	16912
+herbaria	125
+zoos	173
+biodiversity databases	0
+biometric databases	0
+biotechnology databases	0
+cancer genome databases	0
+ecological databases	0
+fisheries databases	0
+medical databases	0
+metabolomic databases	0
+model organism databases	108
+online botany databases	0
+biological database stubs	0
+microarrays	164
+neuroinformatics	2820
+omics	9738
+genomics	16357
+glycomics	691
+phenomics	937
+proteomics	12837
+bioinformatics organizations	0
+bioinformatics companies	71
+phylogenetics	15547
+computational phylogenetics	2219
+evolution of tetrapods	2605
+genealogy	21084
+lazarus taxa	191
+paraphyletic groups	0
+polyphyletic groups	0
+bioinformatics software	13
+free bioinformatics software	0
+metagenomics software	0
+structural bioinformatics software	0
+structural bioinformatics	553
+molecular modelling	2578
+synthetic biology	14078
+algae biomass producers	0
+synthetic biologists	0
+synthetic biology artists	0
+bioinformatics stubs	0
+monte carlo molecular modelling software	0
+spanning tree	7604
+brain每computer interfacing	0
+neuroprosthetics	4871
+neurostimulation	2674
+scattering, absorption and radiative transfer codes	0
+e-science	41
+gpgpu	178
+gpgpu libraries	0
+gpgpu supercomputers	0
+computational linguistics	9841
+computational linguistics researchers	0
+fellows of the association for computational linguistics	0
+linguistic research software	0
+free linguistic software	0
+translation databases	0
+lexicography	9015
+definition	45510
+dictionaries	620
+english lexicology and lexicography	115
+glossaries	3261
+lexicographers	77
+reference works	79
+terminology	10221
+vocabulary	20380
+computational linguistics stubs	0
+inventory optimization	1626
+sequential experiments	0
+stochastic control	2117
+calculus of variations	17395
+variational analysis	298
+fem elements	0
+singular value decomposition	67420
+finite element software for linux	0
+c++ numerical libraries	0
+r (programming language)	89774
+fortran	47349
+spreadsheet software	23
+quadratic forms	82
+partial fractions	83
+numerical climate and weather models	0
+atmospheric dispersion modeling	3782
+science software	0
+astronomy software	0
+astronomy freeware	0
+free astronomy software	0
+google earth	858
+planetarium software for linux	0
+dicom software	0
+free bioimaging software	0
+biology software	0
+biomedical software	0
+biovisualization software	0
+free biomedical software	0
+biosimulation software	0
+free biosimulation software	0
+free biovisualization software	0
+free biology software	0
+crystallography software	0
+earth sciences software	0
+electronic lab notebook	1656
+forensic software	28
+free science software	0
+geology software	0
+hydrology software	0
+laboratory software	0
+mathematical software	2675
+medical software	1330
+neuroscience software	0
+nuclear magnetic resonance software	0
+qda software	0
+science software for linux	0
+science software for macos	0
+science software for windows	0
+scientific simulation software	0
+science software stubs	0
+virtual globes	19
+supercomputing	406
+supercomputing in china	0
+supercomputing in europe	0
+supercomputing in japan	0
+supercomputing in pakistan	0
+supercomputing in the philippines	0
+supercomputer operating systems	1399
+supercomputers	615
+supercomputing in india	0
+earth sciences software infrastructure	0
+earth sciences data formats	0
+earth sciences metadata conventions	0
+earth sciences software infrastructure organizations	0
+environmental science software	0
+gis software	13
+gis software companies	0
+esri software	0
+free gis software	0
+earth sciences graphics software	65
+graphic software in meteorology	0
+integrated hydrologic modelling	0
+digital forensics software	0
+free qda software	0
+free mathematics software	0
+free interactive geometry software	0
+free plotting software	0
+free tex software	0
+free bibtex software	0
+free tex editors	0
+tex sourceforge projects	0
+geology software for linux	0
+hydrogeology software	0
+comparisons of mathematical software	0
+cryptographic software	185
+cryptanalytic software	0
+i2p	565
+openpgp	110
+secure shell	1025
+sftp clients	0
+tor (anonymity network)	120214
+transport layer security implementation	0
+educational math software	0
+mathematical education video games	0
+formal methods tools	0
+model checkers	11
+formula editors	6
+interactive geometry software	232
+mathematical libraries	0
+mathematics software for linux	0
+probabilistic software	0
+software calculators	0
+programmable calculators	22
+spreadsheet file formats	0
+free spreadsheet software	0
+online spreadsheets	9
+spreadsheet software for macos	0
+spreadsheet software for windows	0
+free dicom software	0
+free medical software	0
+free health care software	0
+medical simulation	1431
+medical video games	0
+linux library and information science software	0
+free r (programming language) software	0
+r scientific libraries	0
+healthcare software for macos	0
+healthcare software for windows	0
+spanish supercomputing network	0
+compositions by iamus	0
+fujitsu supercomputers	0
+hitachi supercomputers	0
+nec supercomputers	0
+control data corporation	0
+cdc hardware	0
+cdc software	2
+cray	11927
+seymour cray computer engineering award recipients	0
+cray employees	0
+cray products	0
+cray software	0
+ibm supercomputers	0
+massively parallel computers	0
+nasa supercomputers	0
+nnsa advanced technology systems	0
+sgi supercomputers	0
+supercomputer sites	0
+vector supercomputers	0
+x86 supercomputers	0
+computer architecture	27143
+computer architects	0
+advanced risc computing	0
+capability systems	0
+central processing unit	105225
+cache coherency	589
+cpu sockets	0
+advanced micro devices sockets	0
+advanced micro devices mobile sockets	0
+advanced micro devices server sockets	0
+intel cpu sockets	0
+logic families	39
+microcontrollers	385
+arduino	58195
+intel microcontrollers	0
+microcontroller companies	0
+microcontroller software	0
+renesas microcontrollers	0
+microcomputer stubs	0
+dos stubs	0
+macintosh stubs	0
+microsoft stubs	0
+microprocessors	603
+microprocessors by instruction set architecture	0
+65xx microprocessors	0
+68k microprocessors	0
+arm cores	0
+mips microprocessors	0
+power microprocessors	0
+powerpc microprocessors	0
+sparc microprocessors	0
+sunway microprocessors	0
+x86 microprocessors	0
+microprocessors by company	0
+advanced micro devices microprocessors	0
+apple inc. mobile processors	0
+microprocessors made in china	0
+cyrix x86 microprocessors	0
+dec microprocessors	0
+freescale microprocessors	0
+fujitsu microprocessors	0
+hp microprocessors	0
+ibm microprocessors	0
+intel microprocessors	16
+kombinat mikroelektronik microprocessors	0
+mos microprocessors	0
+motorola microprocessors	0
+national semiconductor microprocessors	0
+nec microprocessors	0
+oracle microprocessors	0
+qed microprocessors	0
+sun microprocessors	0
+via technologies x86 microprocessors	0
+weitek microprocessors	0
+zilog microprocessors	0
+lists of microprocessors	0
+coprocessors	43
+field-programmable gate arrays	86
+graphics processing units	249
+hardware acceleration	7891
+embedded microprocessors	1
+soft microprocessors	0
+instruction processing	0
+machine code	23073
+simd computing	0
+speculative execution	4325
+superscalar microprocessors	0
+very long instruction word computing	0
+manycore processors	19
+open microprocessors	0
+radiation-hardened microprocessors	0
+system on a chip	27927
+network on a chip	2963
+semiconductor ip cores	0
+8-bit computers	0
+6502-based home computers	0
+apple ii clones	0
+apple ii computers	0
+apple ii family	0
+commodore 64	42913
+6809-based home computers	0
+trs-80 color computer	0
+commodore 8-bit computers	0
+commodore 8-bit computer magazines	0
+commodore 128	5397
+commodore vic-20	0
+z80-based home computers	0
+msx	0
+trs-80	0
+zx spectrum	201
+zx spectrum clones	0
+12-bit computers	0
+16-bit computers	0
+18-bit computers	0
+24-bit computers	0
+32-bit computers	0
+36-bit computers	0
+48-bit computers	0
+60-bit computers	0
+64-bit computers	3
+analog computers	548
+mechanical computers	131
+electro-mechanical computers	0
+optical bombsights	0
+avionics computers	0
+guidance computers	0
+ibm avionics computers	0
+classes of mobile computers	0
+2-in-1 pcs	0
+convertible laptops	1
+phablets	420
+samsung galaxy note mobile phones	0
+decimal computers	0
+early computers	0
+1930s computers	0
+1940s computers	0
+1950s computers	0
+early british computers	0
+gec computers	0
+cer computers	0
+emulation software	0
+68k emulators	0
+amiga emulation software	0
+amiga emulators	0
+android emulation software	0
+arcade emulators	0
+classic mac os emulation software	0
+commodore 64 emulators	0
+disk image emulators	2
+dos emulation software	0
+dos emulators	0
+free emulation software	0
+gp2x emulation software	0
+linux emulation software	0
+macintosh platform emulators	0
+macos emulation software	0
+morphos emulation software	0
+msx emulators	0
+multi-emulators	0
+os/2 emulation software	0
+platform virtualization software	0
+powerpc emulators	0
+risc os emulation software	0
+risc os emulators	0
+server emulators	0
+terminal emulators	0
+unix emulation software	0
+unix emulators	0
+video game platform emulators	0
+windows emulation software	0
+x86 emulators	0
+z80 emulators	0
+emulation software stubs	0
+ias architecture computers	0
+ibm 700/7000 series	0
+ibm vacuum tube computers	0
+magnetic logic computers	0
+early microcomputers	0
+s-100 machines	0
+vinyl data	10
+transistorized computers	0
+ibm transistorized computers	0
+vacuum tube computers	7
+embedded systems	2858
+ada (programming language)	26521
+ada programming language family	0
+free software programmed in ada	0
+automotive software	0
+android auto software	0
+driving simulators	18
+microsoft auto	0
+avionics	14779
+aeronautical navigation systems	0
+aircraft radars	0
+aircraft recorders	0
+avionics programming languages	0
+avionics companies	0
+identification friend or foe	28770
+radio direction finding	653
+action cameras	0
+bridge digital cameras	0
+canon powershot cameras	0
+casio cameras	0
+cyber-shot cameras	0
+digital camera backs	35
+digital movie cameras	0
+digital rangefinder cameras	0
+digital slr cameras	0
+dimage cameras	0
+fujifilm digital cameras	0
+hp digital cameras	0
+kodak dc series cameras	0
+kodak easyshare cameras	0
+konica minolta cameras	0
+leica digital cameras	0
+live-preview digital cameras	0
+mirrorless cameras	0
+nikon digital cameras	0
+olympus digital cameras	0
+panasonic lumix cameras	0
+pureview	5
+ricoh digital cameras	0
+samsung cameras	0
+sony cameras	0
+webcams	150
+embedded operating systems	11
+embedded linux	26
+inferno (operating system)	4447
+lightweight unix-like systems	0
+palm os	73
+plan 9 from bell labs	0
+tron project	0
+windows ce	131
+windows mobile	226
+windows phone	311
+engine control systems	0
+firmware	30043
+bios	946
+camera firmware	0
+custom firmware	2583
+macintosh firmware	0
+unified extensible firmware interface	0
+graphing calculators	135
+calculator character sets	19
+graphing calculator software	0
+information appliances	1751
+mobile computers	84
+netbooks	305
+personal digital assistants	384
+set-top box	15082
+smartbooks	5
+video game consoles	382
+microsoft auto devices	0
+onboard computers	0
+real-time computing	15891
+real-time databases	0
+real-time operating systems	84
+synchronous programming languages	1
+real-time web	1121
+single-board computers	168
+all-in-one desktop computers	0
+handheld game consoles	103
+laptops	999
+nettop	2634
+software related to embedded linux	0
+fault-tolerant computer systems	35
+backup	18545
+backup software	1559
+disk cloning	6780
+system image	3423
+online backup services	16
+data synchronization	2526
+syncml	44
+high-availability cluster computing	0
+raid	1672
+uninterruptible power supply	38886
+human computers	234
+harvard computers	0
+west area computers	0
+magnetic core memory computers	0
+mainframe computers	265
+mainframe games	0
+plato games	0
+burroughs mainframe computers	0
+dec mainframe computers	0
+general electric mainframe computers	0
+honeywell mainframe computers	0
+ibm mainframe computers	0
+ibm mainframe technology	0
+ibm cryptographic coprocessors	0
+ibm mainframe software	0
+ibm system/360 mainframe line	0
+vm/cms	5
+icl mainframe computers	0
+univac mainframe computers	0
+mainframe computer stubs	0
+microcomputers	252
+home computers	198
+8086-based home computers	0
+68000-based home computers	0
+arm-based home computers	0
+home computer hardware companies	0
+home computer magazines	0
+home computer peripherals	0
+home computer software	0
+amiga	19104
+amstrad cpc	70
+atari 8-bit family	9799
+atari st	639
+fm towns	0
+galaksija	102
+home computer remakes	0
+sharp x68000	0
+sinclair computers and derivatives	0
+texas instruments ti-99/4a	0
+open computers	0
+personal computers	1440
+pc games	216
+ibm personal computers	0
+ibm pc compatibles	0
+macintosh platform	0
+nec personal computers	0
+olivetti computers	0
+sealed computers	0
+tablet computers	534
+ultra mobile pc	1
+vaio	9386
+portable computers	162
+docking stations	0
+microcomputer software	0
+aros software	0
+beos software	0
+cp/m software	0
+dos software	0
+gem software	0
+linux software	0
+mac os software	0
+os/2 software	0
+windows software	0
+computer workstations	3
+dec workstations	0
+diskless workstations	0
+ibm workstations	0
+icl workstations	0
+sgi workstations	0
+sun workstations	0
+unix software	0
+workstations	560
+music workstations	0
+zx spectrum magazines	0
+screenshots of zx spectrum software	0
+zx spectrum software	0
+military computers	1318
+cold war military computer systems of the united states	0
+computer systems of the united states air force	0
+strategic air command command and control systems	0
+minicomputers	245
+ibm minicomputers	0
+as/400	0
+icl minicomputers	0
+norsk data minicomputers	0
+pdp-11	151
+elektronika bk operating systems	0
+unix archivers and compression-related utilities	0
+bsd software	0
+computer-aided design software for unix	0
+cross-platform software	8897
+curses (programming library)	4134
+unix games	0
+gnu project software	0
+irix software	0
+kde software	0
+macos software	0
+nextstep software	0
+solaris software	0
+standard unix programs	0
+terminal pagers	0
+unix authentication-related software	0
+unix configuration utilities	0
+unix file system-related software	0
+unix network-related software	0
+unix package management-related software	0
+unix process- and task-management-related software	0
+unix programming tools	0
+unix security-related software	0
+unix shells	123
+unix text editors	0
+unix text processing utilities	0
+unix user management and support-related utilities	0
+unix windowing system-related software	0
+minicomputer stubs	0
+dedicated application electronic devices	0
+dedicated e-book devices	0
+acer laptops	0
+compaq laptops	0
+dell laptops	530
+hp laptops	0
+huawei laptops	0
+ibm laptops	0
+lenovo laptops	0
+macintosh laptops	0
+microsoft tablet pc	0
+one laptop per child	34
+subnotebooks	37
+vaio laptops	0
+mobile device management	9636
+mobile device management software	0
+apple inc. personal digital assistants	0
+casio personal digital assistants	0
+hp palmtops	0
+hp pdas	0
+palm os devices	0
+personal digital assistant software	0
+psion devices	0
+symbian devices	0
+timex datalink	0
+windows ce devices	0
+windows mobile devices	0
+mobile phones	4280
+mobile phones by company	0
+active noise control mobile phones	0
+mobile telephone broadcasting	0
+cat phone	2746
+mobile phone companies	12
+mobile phone culture	0
+phones with multiple rear cameras	0
+history of mobile phones	47742
+lists of mobile phones	0
+microsoft lumia	0
+mobile phone industry	0
+mobile phones with an integrated hardware keyboard	0
+open-source mobile phones	0
+mobile phone recycling	2643
+mobile phones by shape	0
+mobile software	264
+solar-powered mobile phones	0
+mobile phone standards	95
+touchscreen mobile phones	38
+watch phones	0
+works about mobile phones	0
+mobile phones by year of introduction	0
+pocket computers	0
+sharp pocket computers	0
+android (operating system) devices	0
+blackberry	23479
+blackberry limited mobile phones	0
+cyanogenmod	235
+discontinued smartphones	0
+firefox os	0
+google nexus	96
+iphone	10547
+maemo	3193
+modular smartphones	3
+mytouch	0
+n-gage (service) compatible devices	0
+s60 (software platform)	3341
+smartphone patent wars	2163
+ubuntu touch devices	0
+webos	145
+windows 10 mobile devices	0
+windows mobile professional devices	0
+windows mobile standard devices	0
+windows phone devices	0
+mobile software by operating system	0
+cross-platform mobile software	0
+free mobile software	0
+mobile applications	756
+mobile business software	0
+mobile software development	5
+mobile software distribution platforms	0
+mobile operating systems	144
+mobile software programming tools	0
+mobile software stubs	0
+tablet computers by year of introduction	0
+ipad	36569
+nokia internet tablets	0
+tablet operating systems	0
+samsung galaxy note tablets	0
+samsung galaxy tab series	0
+wearable computers	117
+activity trackers	43
+samsung wearable devices	0
+smart bands	0
+smartglasses in fiction	0
+mobile computer stubs	0
+one-of-a-kind computers	0
+quantum cryptography	13030
+post-quantum cryptography	25223
+quantum cryptography protocols	0
+quantum programming	10341
+reconfigurable computing	1801
+servers (computing)	0
+data centers	1057
+computer security organizations	0
+modular datacenter	0
+display servers	0
+wayland compositors	0
+x servers	1
+free server software	0
+free email server software	0
+free dicom server software	0
+free software application servers	0
+free web server software	0
+ftp server software	0
+server hardware	20
+enterprise search	1793
+hp servers	0
+ibm server computers	0
+macintosh servers	0
+server appliance	249
+sgi servers	0
+sun servers	0
+ultra-dense servers	0
+instant messaging server software	0
+internet relay chat daemons	0
+linux terminal server project	0
+load balancing	174
+media servers	0
+message transfer agents	0
+microsoft server technology	0
+active directory	606
+sharepoint	524
+microsoft server software	0
+mud servers	0
+lpmud gamedrivers	0
+lpmud mudlibs	0
+mu* servers	0
+proxy servers	707
+free proxy servers	0
+forward proxy	1458
+reverse proxy	24036
+wamp	79
+web server software	0
+web server management software	0
+web server software for linux	0
+smart grids by country	393
+meter manufacturers	0
+automatic identification and data capture	3517
+blockchains	64
+internet of things companies	0
+iot malware	0
+ipv6	1989
+machine to machine	6990
+network appliances	0
+sensor network	272
+wearable devices	75
+contactless smart cards	0
+electronic toll collection	6045
+indoor positioning system	7913
+radio-frequency identification companies	0
+2012 smart cards	0
+smart cards introduced in 2009	0
+smart cards introduced in 2011	0
+cloud clients	7
+ternary computers	9
+non-volatile random-access memory	5077
+variable word length computers	0
+computer architecture conferences	0
+computer architecture statements	0
+computer arithmetic	48
+adders (electronics)	0
+binary arithmetic	203
+binary logic	557
+boolean algebra	44153
+logical connectives	142
+data unit	0
+binary prefixes	380
+iec prefixes	0
+floating point types	0
+consistency models	0
+distributed computing architecture	1
+ambient intelligence	5982
+clients (computing)	0
+bitcoin clients	0
+bittorrent clients	19
+bittorrent clients for linux	0
+free bittorrent clients	0
+blog client software	0
+email clients	62
+classic mac os email clients	0
+email devices	0
+free email software	0
+gmail	327063
+email client software for linux	0
+macos email clients	0
+offline mail readers	0
+webmail	14206
+windows email clients	0
+ftp clients	0
+free ftp clients	0
+gnutella clients	0
+gopher clients	0
+hypertext transfer protocol clients	0
+web browsers	642
+web crawlers	148
+instant messaging clients	14
+aim clients	0
+amiga instant messaging clients	0
+classic mac os instant messaging clients	0
+free instant messaging clients	0
+instant messaging clients for linux	0
+lan messengers	0
+macos instant messaging clients	0
+mobile instant messaging clients	0
+teleconferencing	319
+unix instant messaging clients	0
+voip software	0
+whatsapp	4660
+windows instant messaging clients	0
+xmpp clients	0
+yahoo! instant messaging clients	0
+internet relay chat clients	0
+free internet relay chat clients	0
+classic mac os internet relay chat clients	0
+macos internet relay chat clients	0
+unix internet relay chat clients	0
+windows internet relay chat clients	0
+mpd clients	0
+mud clients	0
+usenet clients	0
+free usenet clients	0
+cloud computing	189266
+cloud applications	0
+cloud gaming	12498
+online office suites	0
+open-source cloud applications	0
+salesforce.com	95859
+as a service	4890
+meego	83
+cloud computing providers	0
+alibaba cloud	0
+amazon web services	640
+ibm cloud services	0
+microsoft cloud services	0
+open-source cloud hosting services	0
+cloud gaming companies	0
+cloud databases	0
+network booting	2276
+network computer (brand)	0
+free software for cloud computing	0
+nextcloud	11580
+hadoop	3258
+cloud infrastructure	336
+cloud infrastructure attacks & failures	0
+cloud platforms	0
+cloud communication platforms	0
+serverless computing	18497
+cloud standards	14
+cloud storage	25687
+cloud storage gateways	0
+web desktops	0
+cluster computing	1150
+distributed file systems	106
+distributed file systems supported by the linux kernel	0
+grid computing	9172
+grid computing products	0
+grid computing projects	0
+fp6 grid computing projects	0
+inter-process communication	18043
+network socket	18856
+remote procedure call	26385
+unix signals	94
+mesh networking	18584
+middleware	19399
+message-oriented middleware	5821
+middleware for computer games	0
+object request broker	818
+common object request broker architecture	69
+peer-to-peer computing	66
+cryptocurrencies	1039
+bitcoin	196737
+ethereum	37236
+people associated with cryptocurrency	0
+ripple payment network	0
+cryptocurrency tumblers	0
+cryptocurrency stubs	0
+distributed data storage systems	0
+distributed data stores	0
+peer-to-peer file sharing	10312
+peercasting	1463
+internet radio	9982
+internet streaming services	0
+internet television	6812
+streaming music services	50
+professional wrestling streaming services	0
+streaming software	0
+streaming-only albums	0
+streaming media systems	0
+twitch streamers	20
+video on demand	43938
+post-cloud computing architecture	0
+ubiquitous computing	10894
+ubiquitous computing researchers	0
+tracking	871
+internet object tracking	0
+web services	1716
+enterprise application integration	6874
+ibm websphere	0
+sap netweaver	0
+instant messaging	29753
+business chat software	0
+instant messaging protocols	0
+snap inc.	0
+xmpp	1043
+internet mirror services	0
+university of technology, malaysia	0
+internet search	657
+internet search engines	18
+web mapping	6894
+google maps	1682
+keyhole markup language	0
+openstreetmap	463
+web map services	0
+wikis about geography	0
+web service specifications	0
+web service development tools	0
+web service providers	0
+yahoo!	109169
+distributed stream processing	0
+backup software for dos	0
+backup software for linux	0
+backup software for mac os	0
+backup software for windows	0
+free backup software	0
+disk images	57
+virtualization software	0
+heterogeneous computing	3099
+cell be architecture	0
+heterogeneous system architecture	4
+hsa foundation	0
+hsa foundation members	0
+hsa foundation founding members	0
+national tsing hua university	0
+opencl compute devices	0
+graphics chips	8
+nvidia graphics processors	0
+high-level language computer architecture	698
+at attachment	0
+serial ata	38
+sata express	17
+serial ata international organization	0
+beos	180
+haiku (operating system)	7129
+beos games	0
+beos text editors	0
+free bios implementations	0
+computer keyboards	78
+computer keyboard companies	0
+computer keyboard models	0
+computer keyboard types	0
+computer keys	0
+lock keys	0
+keyboard layouts	164
+arabic-script keyboard layouts	0
+latin-script keyboard layouts	0
+keyboard layout software	0
+thai keyboard layouts	0
+keyboard-sharing software	0
+typing	11360
+typing software	0
+virtual keyboards	16
+android keyboards	0
+dos on ibm pc compatibles	0
+dos commands	150
+config.sys directives	0
+external dos commands	0
+internal dos commands	0
+dos drivers	0
+dos device names	0
+dos files	0
+dos configuration files	0
+third-party dos files	0
+dos issues	0
+dos memory management	0
+dos extenders	0
+expanded memory managers	0
+dos people	0
+freedos people	0
+antivirus software for dos	0
+dos viruses	0
+dos games	0
+dos media players	0
+screenshots of dos software	0
+dos text editors	0
+web browsers for dos	0
+dos technology	0
+dos environment variables	0
+dos kernel	0
+legacy hardware	0
+microsoft windows	1750
+windows administration	0
+windows remote administration software	0
+windows architecture	0
+windows nt architecture	0
+windows components	9
+windows communication and services	0
+discontinued windows components	0
+windows disk file systems	0
+icons of microsoft windows	0
+microsoft edge	1824
+microsoft windows sample music	0
+microsoft windows multimedia technology	0
+.net framework	350
+windows audio	0
+windows commands	0
+windows nt kernel	0
+windows services	43
+discontinued versions of microsoft windows	0
+windows files	0
+microsoft windows magazines	0
+windows people	0
+windows rootkit techniques	0
+screenshots of microsoft windows	0
+screenshots of windows 3.x	0
+screenshots of windows 7	0
+screenshots of windows 8	0
+screenshots of windows 10	0
+screenshots of windows 95	0
+screenshots of windows 98	0
+screenshots of windows 2000	0
+screenshots of windows me	0
+screenshots of windows server	0
+screenshots of windows vista	0
+screenshots of windows xp	0
+amateur radio software for windows	0
+business software for windows	0
+computer-aided design software for windows	0
+drm for windows	0
+dtp for windows	0
+educational software for windows	0
+windows games	20
+instant messaging clients programmed in java	0
+windows malware	0
+pim-software for windows	0
+programming tools for windows	0
+screenshots of windows software	0
+universal windows platform apps	0
+utilities for windows	0
+windows adware	0
+windows database-related software	0
+windows graphics-related software	0
+windows internet software	0
+windows multimedia software	0
+windows network-related software	0
+windows phone software	0
+windows security software	0
+windows text-related software	0
+windows-only software	0
+windows software stubs	0
+windows technology	0
+windows code pages	179
+microsoft windows security technology	0
+windows device names	0
+windows environment variables	0
+windows 95	25417
+windows 98	21792
+windows me	244
+windows mobile software	0
+windows nt	295
+windows 7	68805
+windows 8	36558
+windows 10	186831
+windows 2000	19258
+windows server	341
+windows vista	607
+windows xp	1117
+microsoft windows stubs	0
+novell netware	0
+os/2	228
+os/2 commands	0
+os/2 drivers	0
+os/2 device names	0
+os/2 files	0
+os/2 people	0
+os/2 games	0
+os/2 web browsers	0
+screenshots of os/2 software	0
+os/2 text editors	0
+os/2 technology	0
+os/2 environment variables	0
+vesa	114
+video cards	361
+advanced micro devices graphics cards	0
+advanced micro devices graphics cards ati brand	0
+computer display standards	64
+geforce series	0
+s-100 graphics cards	0
+speculative execution security vulnerabilities	0
+instruction set architectures	258
+advanced micro devices aarch64 microprocessors	0
+armv5 microarchitectures	0
+armv7-a microarchitectures	0
+armv8-a microarchitectures	0
+advanced micro devices x86 microprocessors	0
+ibm x86 microprocessors	0
+intel x86 microprocessors	0
+nec x86 microprocessors	0
+68k architecture	0
+68k macintosh computers	0
+compact macintosh	0
+macintosh ii	0
+macintosh quadra	0
+sega genesis	474
+sega genesis emulators	0
+sega genesis games	0
+menacer	970
+arm architecture	229
+arm operating systems	0
+android (operating system)	251503
+arm linux distributions	0
+ios	4171
+minix	832
+symbian os	45
+arm-based video game consoles	0
+3do interactive multiplayer	0
+game boy advance	186
+nintendo 3ds	396
+nintendo ds	599
+nintendo switch	2283
+playstation vita	145
+instruction set listings	0
+mips architecture	0
+mips implementations	0
+mips operating systems	0
+irix	296
+nintendo 64	51645
+nintendo 64 accessories	7464
+nintendo 64 emulators	0
+nintendo 64 games	85
+playstation (console)	1400
+playstation emulators	0
+playstation (console) games	0
+playstation (console) accessories	0
+playstation 2	741
+playstation 2 emulators	5
+playstation 2 accessories	0
+playstation 2 games	53
+playstation portable	110
+playstation portable emulators	0
+playstation portable games	7
+silicon graphics	0
+sgi graphics	0
+sgi people	0
+sgi visualization	0
+sparc microprocessor architecture	0
+sparc microprocessor products	0
+x86 architecture	4275
+x86-based game consoles	0
+playstation 4	1375
+xbox (console)	36272
+xbox one	2434
+x86 instructions	11
+x86 macintosh computers	0
+x86 memory management	0
+x86 operating modes	0
+x86 operating systems	0
+ia-32 operating systems	0
+x86-64 operating systems	0
+interoperability	11297
+backward compatibility	10790
+backward-compatible video game consoles	0
+xbox 360	65538
+interoperable communications	0
+integration platform	975
+interrupts	127
+microarchitectures	0
+advanced micro devices microarchitectures	0
+graphics microarchitectures	0
+intel microarchitectures	0
+nvidia microarchitectures	0
+powerpc implementations	0
+msx2 games	0
+msx2-only games	0
+msx games	0
+msx-only games	0
+msx game covers	0
+screenshots of msx games	0
+network architecture	6535
+network addressing	0
+domain name system	10476
+alternative internet dns services	0
+dns software	0
+domain hacks	287
+domain name system extensions	0
+domain names	653
+domain registrars	113
+domain registries	0
+dynamic dns	106
+dns record types	0
+second-level domains	19
+top-level domains	340
+ip addresses	32
+network address translation	48375
+uri schemes	0
+telnet	32921
+url	3614
+cyberinfrastructure	712
+chief executives of computer security organizations	0
+computer security companies	0
+digital forensics organizations	0
+national cyber security centres	0
+cyber ranges	0
+united states cyber command	0
+interfaces	32
+user interfaces	284
+computer accessibility	4079
+adaptive web design	1294
+computing output devices	0
+interface designers	0
+graphical user interfaces	266
+haptic technology	25288
+hypertext	17534
+responsive web design	16297
+computer terminals	297
+text mode	1696
+text user interface	963
+user interface techniques	34
+zoomable user interfaces	0
+internet architecture	17
+content delivery networks	5
+internet exchange points	0
+internet exchange points by region	0
+internet protocols	185
+application layer protocols	0
+bonding protocols	0
+cryptographic protocols	19
+first-hop redundancy protocols	48
+internet protocol	2108
+ipsec	676
+internet layer protocols	0
+link protocols	0
+logical link control	5616
+media access control	2251
+network layer protocols	0
+nortel protocols	0
+physical layer protocols	0
+transmission control protocol	1108
+transport layer protocols	0
+transport layer security	6450
+voip protocols	0
+wan optimization	3
+web caching protocol	0
+multihoming	3405
+internet standards	14
+internet assigned numbers authority	0
+mime	2541
+internet standard organizations	0
+request for comments	398
+tier 1 networks	0
+at&t	1099
+transit-free networks	0
+telecom italia	0
+local loop	4468
+wimax	300
+mpls networking	0
+osi model	632
+osi protocols	0
+protocols by osi layer	0
+x.500	9234
+overlay networks	0
+network protocols	145
+computer access control protocols	0
+directory services	236
+audio network protocols	0
+cisco protocols	0
+device discovery protocols	0
+optical transport network	17
+packets (information technology)	0
+packet radio	3096
+printing protocols	48
+presentation layer protocols	0
+session layer protocols	0
+remote desktop protocols	0
+routing protocols	133
+ad hoc routing protocols	0
+synchronous optical networking	9691
+tunneling protocols	35
+unipro	18
+upnp devices	0
+xns based protocols	0
+systems network architecture	0
+network topology	50880
+virtual private networks	257
+dark web	147377
+carding (fraud)	7710
+darknet markets	566
+tor onion services	0
+virtual private network services	0
+operating system kernels	0
+linux kernel	52940
+linux drivers	0
+linux kernel features	0
+advanced linux sound architecture	0
+device mapper	3056
+direct rendering infrastructure	9
+linux file systems	75
+linux kernel live patching	0
+file systems supported by the linux kernel	0
+flash file systems supported by the linux kernel	0
+pseudo file systems supported by the linux kernel	0
+read-only file systems supported by the linux kernel	0
+special-purpose file systems supported by the linux kernel	0
+interfaces of the linux kernel	0
+linux kernel variant	0
+linux kernel-related software	0
+operating systems based on the linux kernel	0
+linux	124534
+linux distributions	1038
+rolling release linux distributions	0
+sco每linux disputes	0
+third-party linux kernel modules	0
+microkernels	0
+mach (kernel)	4744
+microkernel-based operating systems	0
+monolithic kernels	4
+nanokernels	0
+system calls	122
+operating systems	3228
+discontinued operating systems	0
+a/ux	0
+a/ux-capable macintoshes	0
+a/ux people	0
+digital research operating systems	0
+discontinued linux distributions	0
+discontinued microsoft operating systems	0
+operating systems by architecture	0
+linux distributions by processor architecture	0
+ia-32 linux distributions	0
+ibm esa/390 linux distributions	0
+power isa linux distributions	0
+powerpc linux distributions	0
+x86-64 linux distributions	0
+power isa operating systems	0
+powerpc operating systems	0
+amigaos 4	0
+software by operating system	0
+cross-platform free software	0
+cobol	1193
+cross-platform web browsers	0
+firebird	1725
+interbase	387
+java platform software	0
+oracle database	1741
+platform-sensitive development	0
+proprietary cross-platform software	0
+qt (software)	26335
+rexx (programming language)	0
+sqlite	448
+vulkan (api)	0
+wxwidgets	257
+malware by platform	0
+linux malware	5634
+macos malware	0
+mobile malware	2360
+single-platform software	0
+single-platform free software	0
+linux-only software	0
+mac os-only software	0
+macos-only software	0
+single-platform video games	0
+mobile games by platform	0
+android (operating system) software	0
+blackberry software	0
+firefox os software	0
+ios software	0
+ipados software	0
+java device platform	0
+meego software	0
+palm os software	0
+symbian software	0
+video games by platform	0
+mobile games	958
+video game lists by platform	0
+video games with cross-platform play	0
+games on apple inc. platforms	0
+arcade games by platform	0
+games on atari platforms	0
+games on commodore platforms	0
+console games by platform generation	0
+games on google platforms	0
+games on microsoft platforms	0
+games on nec platforms	0
+games on nintendo platforms	0
+games on sega platforms	0
+games on sony platforms	0
+3do interactive multiplayer games	0
+acorn archimedes games	0
+acorn atom games	0
+adventure vision games	0
+amstrad cpc games	0
+amstrad pcw games	0
+apple arcade games	0
+apple ii games	0
+arcade games	368
+bally astrocade games	0
+bbc micro and acorn electron games	0
+blackberry games	0
+browser games	80
+calculator games	0
+cd-i games	0
+cd32 games	0
+colecovision games	0
+cp/m games	0
+door games	5
+dragon 32 games	0
+electronika 60 games	0
+facebook games	0
+fairchild channel f games	0
+fm towns games	0
+fm-7 games	0
+game.com games	0
+gizmondo games	0
+gp2x games	0
+gx4000 games	0
+handheld video games	222
+hp 3000 games	0
+intellivision games	0
+ique games	0
+linux games	24
+microvision games	0
+n-gage service games	0
+neo geo cd games	0
+neo geo games	0
+oric games	0
+games built with playground sdk	0
+pmd 85 games	0
+r-zone games	0
+rca studio ii games	0
+sam coup谷 games	0
+sharp mz games	0
+sharp x1 games	0
+sharp x68000 games	0
+sinclair ql games	0
+stadia games	0
+tandy 1000 games	0
+tatung einstein games	0
+texas instruments ti-99/4a games	0
+trs-80 color computer games	0
+trs-80 games	0
+vectrex games	0
+videopac games	0
+wonderswan color games	0
+wonderswan games	0
+xerox alto games	0
+zeebo games	0
+zx spectrum games	0
+zx81 games	0
+amiga software	536
+amiga development software	0
+amiga games	226
+amiga media players	0
+amiga raytracers	0
+screenshots of amiga software	0
+amiga viruses	0
+web browsers for amigaos	0
+amigaos 4 software	0
+amigaos 4 games	0
+android web browsers	0
+custom android firmware	0
+android (operating system) development software	0
+free and open-source android software	0
+android (operating system) games	0
+google play	525
+android malware	0
+apple ii software	0
+apple ii word processors	0
+atari st software	0
+atari st games	0
+bada software	0
+bada games	0
+blackberry development software	0
+screenshots of blackberry software	0
+classic mac os software	0
+classic mac os-only software made by apple inc.	0
+classic mac os viruses	0
+classic mac os media players	0
+classic mac os text editors	0
+classic mac os-only web browsers	0
+classic mac os word processors	0
+firefox os games	0
+defunct ios software	0
+ios development software	0
+ios games	0
+icons of ios	0
+ios web browsers	0
+itunes	1774
+ios malware	0
+screenshots of ios software	0
+accounting software for linux	0
+linux administration	0
+amateur radio software for linux	0
+antivirus software for linux	0
+linux apis	0
+audio software for linux	0
+benchmarking software for linux	0
+business software for linux	0
+computer-aided design software for linux	0
+computer-aided engineering software for linux	0
+computer-aided manufacturing software for linux	0
+computer-assisted translation software for linux	0
+linux configuration utilities	0
+database-related software for linux	0
+desktop publishing software for linux	0
+educational software for linux	0
+electronic design automation software for linux	0
+engineering software for linux	0
+enterprise resource planning software for linux	0
+game engines for linux	0
+graphics-related software for linux	0
+healthcare software for linux	0
+internet software for linux	0
+linux patches	0
+motion picture software for linux	0
+multimedia software for linux	0
+music software for linux	0
+linux network-related software	0
+office suites for linux	0
+packet analyzer software for linux	0
+photo software for linux	0
+pim-software for linux	0
+linux programming tools	0
+proprietary software for linux	381
+remote desktop software for linux	0
+scorewriters for linux	0
+screenshots of linux software	0
+linux security software	0
+software that uses fltk	0
+software that uses qt	0
+software that uses tk	0
+software that uses wxwidgets	0
+linux text-related software	0
+touch typing tutors for linux	0
+typography-related software for linux	0
+utilities for linux	0
+utility software for linux	0
+video game development software for linux	0
+video software for linux	0
+virtualization-related software for linux	0
+mac software companies	0
+mac os games	0
+mac os graphics software	0
+icons of mac os	0
+mac os multimedia software	0
+mac os web browsers	0
+screenshots of mac software	0
+macintosh software stubs	0
+morphos software	0
+morphos games	0
+opensolaris-derived software distributions	0
+openvms software	0
+openvms text editors	0
+palm os games	0
+screenshots of palm os software	0
+playstation 3 software	0
+playstation 4 software	0
+playstation 4 games	0
+pocket pc software	0
+windows mobile professional games	0
+silverlight	1273
+project scarlett software	0
+project scarlett games	0
+risc os software	0
+risc os configuration utilities	0
+risc os programming tools	0
+solaris media players	0
+symbian games	0
+symbian instant messaging clients	0
+symbian software games	0
+ti-83&4 series zilog z80 software	41
+ti-83&4 series zilog z80 games	41
+ti-83&4 series zilog z80 programming languages	41
+tvos software	0
+watchos software	0
+wear os software	0
+wii software	0
+windows mobile games	0
+windows mobile standard software	0
+windows phone games	0
+xbox 360 software	4
+xbox 360 games	128
+xbox live	183
+xbox one software	0
+xbox one games	0
+books on operating systems	0
+books about linux	0
+unix books	0
+computer networking	4605
+computer networks	1495
+computer networks by scale	0
+can bus	2
+internet culture	5684
+meteorological data and networks	0
+computer buses	17
+motherboard expansion slot	0
+expresscards	0
+fibre channel	197
+pcmcia	59
+peripheral component interconnect	38
+scsi	292
+serial buses	0
+computer storage buses	0
+usb	2577
+networking companies	0
+networking companies of canada	0
+defunct networking companies	0
+internet technology companies	0
+networking hardware companies	0
+storage area network companies	0
+networking companies of the united states	0
+voip companies	0
+computer networking conferences	0
+download websites	0
+free music download websites	0
+tucows	3779
+flow control (data)	6667
+networking hardware	17292
+avaya products	0
+cisco products	0
+ethernet cables	18
+fiber optics	1137
+fiber-optic communications	25
+hardware routers	0
+modems	328
+netgear	9537
+network acceleration	0
+nortel products	0
+plc internet access	0
+routers (computing)	0
+telephone exchanges	181
+wireless networking hardware	0
+network management	6434
+computer network analysis	0
+free network management software	0
+network performance	4132
+out-of-band management	12448
+radio resource management	1388
+routing	17556
+network operating systems	0
+macos server	0
+network software	0
+network mappers	0
+networking software companies	0
+content-control software	4451
+fax software	0
+groupware	1420
+internet protocol based network software	0
+network software comparisons	0
+net neutrality	86593
+net neutrality by country	2800
+online services	731
+academic journal online publishing platforms	0
+online analytical processing	12810
+online archives	0
+online bookmarking services	0
+online chat	20132
+online companies	0
+online services comparisons	0
+computer-mediated communication	5724
+online content distribution	0
+online databases	15
+online dating services	56
+online dictionaries	28
+web directories	475
+electronic publishing	6259
+online encyclopedias	3
+online entertainment	0
+online gaming services	0
+online help	1331
+internet hosting	92
+online advertising services and affiliate networks	0
+online journalism	954
+online magazines	40
+online games	469
+pre每world wide web online services	0
+social networking services	79
+online support groups	0
+virtual museums	13
+web fiction	2109
+web hosting	1312
+commerce websites	0
+computer network organizations	0
+academic computer network organizations	0
+internet-related organizations	0
+wireless network organizations	0
+people associated with networking industry	0
+computer network security	44
+computer access control	2403
+network analyzers	0
+antivirus software	37032
+email authentication	2687
+computer security exploits	0
+firewall software	8
+internet security	15040
+spam filtering	192
+network service	7152
+email	103587
+network file systems	5
+push technology	12896
+usenet	27877
+networking standards	0
+ethernet standards	0
+fossil	42711
+ieee 802	0
+wireless networking standards	0
+wireless display technologies	0
+wireless networking	876
+bluetooth	134641
+d-link	86
+mobile web	4659
+wi-fi	2405
+wireless application protocol	180
+wireless sensor network	13153
+computer network stubs	0
+network software stubs	0
+internet stubs	0
+disk operating systems	0
+cp/m	157
+cp/m people	0
+cp/m files	0
+cp/m issues	0
+cp/m technology	0
+distributed operating systems	0
+inferno (operating system) people	0
+web browsers for plan 9	0
+plan 9 people	0
+educational operating systems	0
+embedded linux distributions	0
+linux-based devices	2
+operating systems using gpe	0
+openbsd	464
+floppy disk-based operating systems	0
+free software operating systems	0
+dragonfly bsd	51
+free operating system technology	0
+free device drivers	0
+free boot loaders	0
+free memory management software	0
+free package management systems	0
+free software only operating systems	0
+free software only linux distributions	0
+freebsd	1765
+freebsd people	0
+linux audio podcasts	0
+linux conferences	0
+linux documentation projects	0
+hardware in linux	0
+linux templates	0
+linux user groups	0
+linux magazines	3
+mobile linux	0
+linux organizations	0
+linux software projects	0
+linus torvalds	285
+ubuntu	62030
+linux websites	0
+linux stubs	0
+netbsd	229
+openbsd software using the isc license	0
+opensolaris	95
+game console operating systems	0
+just enough operating systems	0
+lisp-based operating systems	0
+bada (operating system)	213
+ios jailbreaking	34
+openmoko	1289
+maemo games	0
+nokia platforms	0
+nokia eseries	0
+nokia nseries	0
+nokia xseries	0
+webos games	0
+windows server 2008	79
+windows server 2008 r2	0
+object-oriented operating systems	0
+macos	3798
+macos apis	0
+macos development	0
+macos security technology	0
+screenshots of macos software	0
+macos user interface	0
+operating system advocacy	979
+operating system apis	0
+amiga apis	0
+java apis	0
+java api for xml	0
+video acceleration apis available on linux	0
+mac os apis	0
+microsoft application programming interfaces	0
+microsoft software factories	0
+windows apis	0
+posix	999
+c posix library	3
+posix web browsers	0
+operating system comparisons	0
+operating system criticisms	0
+operating system distributions bootable from external media	0
+live cd	70
+live linux distributions	0
+live usb	29
+slax-based distributions	0
+operating system distributions bootable from read-only media	0
+livedistro	11
+operating system families	0
+amigaos	72
+amiga music formats	0
+android forks	0
+berkeley software distribution	46
+debian	36525
+debian people	0
+debian-based distributions	0
+dpkg	4343
+ibm mainframe operating systems	0
+ibm esa/390 operating systems	0
+mac os	1221
+mac os character encodings	0
+classic mac os	0
+mac os development	0
+mac os people	0
+mac os user interface	0
+multics-like	0
+openvms	109
+unix variants	0
+bell labs unices	0
+unix system v	0
+operating system people	0
+be inc. people	0
+gnome developers	0
+unix people	0
+bsd people	0
+gnu people	0
+linux people	0
+solaris people	0
+sun microsystems people	0
+operating system technology	0
+booting	22597
+boot loaders	2
+bootable media	25
+video game boot disks	0
+command shells	10
+environment variables	184
+microsoft basic	22
+web shells	0
+concurrency (computer science)	9021
+actor model (computer science)	0
+concurrency control	5161
+concurrent computing	7724
+denotational semantics	2708
+petri nets	320
+process calculi	454
+temporal logic	3174
+transaction processing	5646
+transactional memory	1975
+concurrent programming languages	8
+concurrent programming libraries	0
+distributed computing	29779
+distributed computing conferences	0
+parallel computing	20963
+process (computing)	16244
+researchers in distributed computing	0
+threads (computing)	0
+device drivers	909
+executable file formats	0
+exe packers	0
+computer file systems	0
+archive formats	73
+device file	6989
+disk encryption	5318
+disk file systems	3
+file archivers	17
+file copy utilities	0
+file deletion	1491
+file system directories	0
+file system management	0
+file system permissions	14626
+computer files	121
+ibm file systems	0
+shared disk file systems	0
+special-purpose file systems	0
+union file systems	0
+unix file system technology	0
+userspace file systems	0
+memory management	9956
+cache (computing)	33380
+memory management software	0
+virtual memory	20291
+operating system components by operating system	0
+package management systems	3
+linux distributions by package management	0
+linux pms graphical front-ends	0
+proprietary package management systems	0
+uninstallers for macos	0
+uninstallers for windows	0
+process termination functions	0
+process.h	904
+task managers	0
+operating system security	0
+proprietary operating systems	0
+acorn operating systems	0
+apple inc. operating systems	0
+atari operating systems	0
+caldera (company) operating systems	0
+cdc operating systems	0
+dec operating systems	0
+google operating systems	0
+ibm operating systems	0
+icl operating systems	0
+microsoft operating systems	0
+morphos	117
+novell operating systems	0
+unisys operating systems	0
+univac software	0
+rom-based operating systems	0
+time-sharing operating systems	0
+unix	63986
+unix history	0
+open group standards	0
+motif	3127
+x window system	242
+unix standards	0
+unix stubs	0
+gnu stubs	0
+window-based operating systems	0
+operating system stubs	0
+desktop environment stubs	0
+gnome stubs	0
+kde stubs	0
+wikipedia categories named after operating systems	0
+edubuntu	1553
+knoppix	5084
+meego devices	0
+canonical (company)	6717
+ubuntu derivatives	0
+windows 7 typefaces	0
+windows rt devices	0
+windows vista typefaces	0
+windows ultimate extras	0
+firefox os devices	0
+arch-based linux distributions	0
+computer hardware researchers	0
+computer data storage	32144
+computer storage companies	0
+computer storage devices	17
+computer storage devices by company	0
+cbm storage devices	0
+emc storage devices	0
+hp storage devices	0
+ibm storage devices	0
+iomega storage devices	0
+syquest storage devices	0
+floppy disk computer storage	0
+floppy disk drives	0
+hard disk computer storage	0
+hard disk drives	346
+heat-assisted magnetic recording	1707
+network-attached storage	26517
+optical computer storage	0
+optical computer storage media	0
+optical disc authoring	1083
+solid-state computer storage	0
+solid-state computer storage media	0
+non-volatile memory	16168
+solid-state caching	0
+spintronics	9114
+tape-based computer storage	0
+computer storage tape media	0
+univac storage devices	0
+video game storage media	0
+computer storage media	32
+punched card	19483
+card reader (punched cards)	0
+rotating disc computer storage media	0
+blu-ray disc	668
+compact disc	39872
+dvd	1212
+optical discs	77
+storage systems	0
+distributed bug tracking systems	0
+storage virtualization	1991
+storage area networks	21
+computer storage technologies	0
+electronic circuits in computer storage	0
+computer memory	28872
+database caching	1254
+computer memory companies	0
+sandisk	405
+computer memory form factor	0
+digital registers	0
+memory expansion	0
+types of ram	0
+sdram	0
+home servers	0
+preloading and prebinding	0
+storage software	0
+data recovery	9685
+data recovery companies	0
+data recovery software	57
+free data recovery software	0
+disk usage analysis software	0
+free storage software	0
+free defragmentation software	0
+hard disk software	0
+defragmentation software	19
+disk partitioning software	0
+optical disc authoring software	246
+storage software stubs	0
+volume manager	45
+computer storage stubs	0
+computer graphics	23696
+3d printed firearms	0
+3d scenegraph apis	0
+video games that support vulkan	0
+edgeworks entertainment	0
+lists of machinima series episodes	0
+machinima by year	0
+rooster teeth	0
+screenshots of machinima	0
+machinima templates	0
+machinima works	0
+3d computer graphics software for linux	0
+3d modeling software for linux	0
+3d rendering software for linux	0
+renderman	32
+anatomical simulation	0
+3d animation software	0
+autocad	464
+free 3d graphics software	0
+freeware 3d graphics software	0
+global illumination software	0
+rendering systems	0
+shading languages	0
+global illumination algorithms	2
+video games that support directx 12	0
+webgl	898
+american 3d films	0
+australian 3d films	0
+brazilian 3d films	0
+british 3d films	0
+canadian 3d films	0
+chinese 3d films	0
+dutch 3d films	0
+finnish 3d films	0
+french 3d films	0
+german 3d films	0
+hong kong 3d films	0
+indian 3d films	0
+italian 3d films	0
+japanese 3d films	0
+malaysian 3d films	0
+new zealand 3d films	0
+pakistani 3d films	0
+philippine 3d films	0
+russian 3d films	0
+south korean 3d films	0
+spanish 3d films	0
+sri lankan 3d films	0
+taiwanese 3d films	0
+thai 3d films	0
+vietnamese 3d films	0
+1900s 3d films	0
+1920s 3d films	0
+1930s 3d films	0
+1940s 3d films	0
+1950s 3d films	0
+1960s 3d films	0
+1970s 3d films	0
+1980s 3d films	0
+1990s 3d films	0
+2000s 3d films	0
+2010s 3d films	0
+2020s 3d films	0
+2010 3d films	0
+2011 3d films	0
+2012 3d films	0
+2013 3d films	0
+2014 3d films	0
+2015 3d films	0
+2016 3d films	0
+2017 3d films	0
+2018 3d films	0
+2019 3d films	0
+2020 3d films	0
+2021 3d films	0
+3d animated short films	0
+dead space games	0
+fictional illusionists	0
+holography in films	0
+holography in television	0
+3d television channels	0
+3d television programs	0
+nintendo 3ds eshop games	0
+nintendo 3ds games	0
+the pinball arcade	0
+playstation vr games	0
+stern pinball arcade	0
+virtual boy games	0
+anti-aliasing algorithms	0
+clipping (computer graphics)	4537
+polygon clipping algorithms	0
+l-systems	120
+anti-aliasing	5203
+ascii art	142
+demo effects	0
+graphics hardware	1701
+graphics hardware companies	0
+display devices	0
+apple inc. displays	0
+head-mounted displays	49
+virtual reality headsets	366
+ibm display devices	0
+liquid crystal displays	241
+flexible displays	6
+sharp corporation televisions and displays	0
+monochrome display adapter	0
+plotters	32
+ink plotters	0
+pen plotters	0
+primary colors	1042
+secondary colors	250
+tertiary colors	137
+quaternary colors	3
+animal coat colors	0
+diamond colors	0
+dyes	608
+lists of colors	35132
+paints	542
+pigments	1135
+pink	22390
+rainbow colors	0
+school colors	7791
+shades of color	19
+symbols by color	0
+web colors	55783
+color stubs	0
+color appearance models	0
+defcon	446
+color symbols	0
+heraldic tinctures	0
+national colours	9270
+black-and-white films	0
+cinecolor films	0
+films partially in color	0
+philippine films by color process	0
+trucolor films	0
+auburn hair	10651
+blond hair	728
+brown hair	16947
+hair coloring	13774
+red hair	49618
+color space	17073
+green	33303
+shades of green	31946
+1920s color films	0
+1930s color films	0
+color photographs	0
+coats of arms with rainbows	0
+rainbow flags	0
+hexadecimal color redirects	0
+color scales	0
+aposematic animals	0
+color conversion templates	0
+legend templates	0
+political party colour templates	0
+political party shading templates	0
+shades of color templates	0
+text color templates	0
+color user templates	0
+color filter array	2473
+image sensor products	0
+free image galleries	0
+imageboards	217
+photography websites	0
+adobe photoshop	328
+free photo software	0
+hdr tone mapping software	0
+photo stitching software	0
+actionscript	205
+adobe flex	0
+flash cartoons	15
+flash games	119
+gis raster file formats	0
+spatial databases	0
+gis vector file formats	0
+cad file formats	0
+vector graphics markup languages	0
+mri contrast agents	0
+radiocontrast agents	1
+ultrasound contrast agents	0
+cardiac electrophysiology	2480
+electrophysiologists	8
+breast imaging	1161
+cardiac imaging	1277
+digestive system imaging	0
+neuroimaging	13127
+respiratory system imaging	0
+urologic imaging	0
+medical illustrators	0
+medical photographers	0
+optical coherence tomography	17996
+pet radiotracers	0
+fictional radiologists	0
+interventional radiology	12452
+nuclear medicine	14647
+radiation therapy	31238
+radiography	15608
+radiologic signs	14
+radiologists	59
+radiology organizations	0
+intel graphics	125
+layout (computing)	395
+layout engines	35
+browser engine comparisons	0
+layout engine comparisons	0
+free layout engines	0
+computer graphics organizations	0
+computer graphics conferences	0
+pointing devices	0
+computer mice	86
+ipad styluses	0
+joysticks	105
+light guns	19
+light gun games	0
+the house of the dead	0
+lethal enforcers	0
+time crisis	0
+touchscreens	56
+touchscreen portable media players	0
+multi-touch	5751
+surface computing	301
+touch user interfaces	0
+procedural generation	9706
+demoscene	9570
+demos	894
+demo parties	0
+demogroups	0
+demoscene software	0
+demosceners	11
+tracker musicians	0
+demoscene images	0
+video games using procedural generation	0
+roguelike video games	0
+open-source roguelikes	0
+spore (2008 video game)	14687
+computer graphics professionals	0
+computer animation people	0
+flash artists	0
+dreamworks people	0
+dreamworks animation people	0
+nvidia people	0
+computer graphics researchers	0
+raster graphics	22345
+raster graphics editors	68
+free raster graphics editors	0
+free raster to vector conversion software	0
+raster graphics editors for linux	0
+raster to vector conversion software	0
+graphics software	5857
+free graphics software	0
+free 2d animation software	0
+calligra suite	0
+free computer-aided design software	0
+free electronic design automation software	0
+free diagramming software	0
+free image organizers	0
+free panorama software	0
+free photo stitching software	0
+free vector graphics editors	0
+free image viewers	0
+free data visualization software	0
+macos graphics software	0
+adobe creative suite	0
+animation software	318
+2d animation software	0
+computer-aided design software	0
+2d computer-aided design software	0
+building information modeling	28251
+electronic design automation software	0
+autorouters	0
+electronic circuit simulators	0
+macos computer-aided design software	0
+screenshots of cad software	0
+screenshots of nx (unigraphics)	0
+computer-aided design stubs	0
+data visualization software	0
+javascript visualization toolkits	0
+visualization api	0
+linux tex software	0
+diagramming software	0
+dtp for macos	0
+tex software for macos	0
+tex software for windows	0
+fractal software	0
+graphics software that uses gtk	0
+motion graphics software that uses gtk	0
+linux image viewers	0
+motion graphics software for linux	0
+libreoffice	1848
+openoffice	254
+stop-motion software for linux	0
+svgalib programs	0
+vector graphics editors for linux	0
+icon software	3
+image organizers	0
+image viewers	25
+panorama viewers	0
+graphics libraries	5
+cairo (graphics)	3388
+software that uses cairo	0
+mantle (api)	0
+game engines that support mantle	0
+video games that support mantle	0
+simple directmedia layer	0
+free software that uses sdl	0
+proprietary software that uses sdl	0
+text rendering libraries	0
+video game engines	0
+.net game engines	0
+adventure game engines	0
+decima (game engine)	12103
+free game engines	0
+freeware game engines	0
+game engine recreations	1
+game engines that support vulkan	0
+goldsrc	24
+id tech	42
+iphone video game engines	0
+lua-scriptable game engines	0
+python-scriptable game engines	0
+source (game engine)	15525
+unreal engine	621
+video game engine templates	0
+video games by game engine	0
+video games by physics engine	0
+visual novel engines	13
+xna game engines	0
+widget toolkits	21
+enlightenment foundation libraries	11
+fltk	66
+gnustep	39
+gtk	250
+rich internet application frameworks	0
+tk (software)	3218
+live video software	0
+macos graphics-related software	0
+office suites for macos	0
+presentation software for macos	0
+music visualization software	0
+panorama software	1
+screencasting software	45
+screenshot software	63
+typography software	0
+free typography software	0
+free desktop publishing software	0
+free font editors	0
+free typesetting software	0
+free pdf software	0
+desktop publishing software	266
+tex	981
+font editors	0
+font managers	0
+pdf software	0
+pdf readers	0
+typesetting software	0
+epub readers	0
+page description languages	0
+typesetting programming languages	0
+vector graphics editors	0
+visualization software	319
+office suites for windows	0
+microsoft office	905
+presentation software for windows	0
+graphics software stubs	0
+graphics standards	35
+sky 3d	0
+dsiware games	0
+virtual console games for nintendo 3ds	0
+nintendo 3ds-only games	0
+cancelled nintendo 3ds games	0
+nintendo 3ds game covers	0
+new nintendo 3ds games	0
+screenshots of nintendo 3ds games	0
+video games that use amiibo figurines	0
+cancelled virtual boy games	0
+virtual boy game covers	0
+screenshots of virtual boy games	0
+computer graphic techniques	0
+vector graphics	41825
+eda file formats	0
+scalable vector graphics	542
+svg electrical symbols	0
+svg logos	0
+svg logos of companies	0
+linux distribution logos	0
+svg logos of universities and colleges	0
+vector images of trademarks	0
+video games with vector graphics	0
+vector arcade games	0
+vectrex game covers	0
+video game graphics	4906
+video games by graphical style	0
+video games with 2.5d graphics	0
+build (game engine) games	0
+doom engine games	0
+genie engine games	0
+littlebigplanet	44
+sprite based first-person shooters	0
+video games with isometric graphics	115
+video games with pre-rendered 3d graphics	0
+wolfenstein 3d engine games	0
+video games with cel-shaded animation	0
+borderlands games	0
+sly cooper	239
+video games with digitized sprites	0
+first-person party-based dungeon crawler video games	0
+etrian odyssey	56
+might and magic	117
+wizardry	6314
+full motion video based games	0
+age of empires	482
+anno (series)	17010
+civilization (series)	22219
+final fantasy tactics	181
+front mission	0
+infinity engine games	0
+megaman battle network	0
+simcity	291
+video games with oblique graphics	0
+gold box games	11
+streets of rage games	0
+video games with rotoscoped graphics	0
+side-scrolling video games	7
+adventure island	58
+azure striker gunvolt	0
+azure striker gunvolt series	0
+side-scrolling beat 'em ups	0
+side-scrolling platform games	0
+side-scrolling role-playing video games	0
+video games with silhouette graphics	0
+video games with textual graphics	0
+text-based mmorpgs	0
+video games with tile-based graphics	0
+top-down video games	0
+top-down racing video games	0
+video games with voxel graphics	0
+visual programming	221
+visual programming languages	184
+doom engine mods	0
+sly cooper characters	0
+heroes of might and magic	84
+front mission media	0
+megaman nt warrior episode lists	0
+mega man battle network games	0
+donkey kong country	161
+kirby platform games	0
+wario land	0
+castlevania	46036
+dragon slayer (series)	0
+wonder boy series	0
+visualization (graphic)	273
+cartography	25684
+cartography by city	0
+cartography by continent	0
+cartography by country	0
+cartography in the dutch republic	0
+maps by country	0
+cartographers	177
+cartographers by century	0
+cartographers by nationality	0
+cartographers by subject	0
+arab cartographers	0
+women cartographers	0
+medieval cartographers	0
+selenographers	0
+topographers	0
+cave surveying	8
+collaborative mapping	704
+geosocial networking	884
+neogeography	398
+fictional maps	0
+fictional atlases	0
+images of fictional maps	0
+gazetteers	50
+manuals and gazetteers of india	0
+geographic coordinate systems	74
+vertical position	1182
+digital elevation models	43
+geographical databases	0
+historical geographic information systems	0
+geographic information systems organizations	0
+historians of cartography	0
+hydrography	3952
+hydrography by country	0
+basins	27
+bodies of water	422
+exclusive economic zones	369
+hydrographers	0
+limnology	6168
+national hydrographic offices	0
+nautical charts	133
+oceanography	13132
+hydrography of sevastopol	0
+lines of latitude	0
+equator monuments	0
+lines of longitude	23
+named meridians	0
+map companies	0
+map companies by country	0
+map projections	252
+conformal projections	0
+equal-area projections	0
+equidistant projections	0
+map types	0
+geologic maps	11
+road maps	30
+maps	1366
+maps by continent	0
+maps by language	0
+maps by source	0
+17th-century maps and globes	0
+18th-century maps and globes	0
+19th-century maps and globes	0
+20th-century maps and globes	0
+21st-century maps and globes	0
+atlases	56
+maps of cities	0
+map collections	0
+demographic maps	0
+ethnic maps	0
+globes	3399
+history maps	0
+linguistic maps	0
+lists of maps	0
+maps by century	0
+maps in art	0
+military maps	0
+ocean maps	0
+omission from maps	0
+railroad maps	0
+map series	559
+volleyball maps	0
+world maps	39
+military cartography	0
+ordnance survey	265
+cartography organizations	0
+national mapping agencies	3
+phantom islands	164
+phantom arctic islands	0
+phantom islands of the atlantic	0
+atlantis	94138
+phantom subantarctic islands	0
+places	162
+lists of places	3270
+places by location	0
+places by type	0
+environments	52
+former places	0
+hyperlocal media	11
+metaphors referring to places	0
+place names	150
+outer space	40007
+people associated with places	0
+places in popular culture	0
+sites along the silk road	0
+sky regions	0
+surveying	32133
+geological surveying	0
+home inspection	3163
+initial points	0
+land surveying of the united states	0
+land surveying systems	0
+surveying organizations	0
+surveying instruments	46
+surveying of australia	0
+surveying of india	0
+surveyors	34
+topography	23081
+highest points	7
+impact craters on earth	0
+landforms	2294
+lowest points	9
+topography of the ancient city of rome	0
+topography techniques	0
+ultra-peaks	0
+topography stubs	0
+cartography stubs	0
+charts	221
+financial charts	0
+graph, chart and plot templates	0
+graph template collection	0
+graphs (images)	0
+music diagrams	0
+plots (graphics)	0
+statistical charts and diagrams	0
+data visualization	16273
+object visualization	0
+information visualization	2749
+information visualization experts	0
+graphic designers	179
+information graphic designers	0
+graphic designers by nationality	0
+women graphic designers	0
+aiga medalists	0
+art directors	26
+book designers	0
+currency designers	0
+logo designers	0
+newspaper designers	0
+poster artists	0
+stamp designers	0
+typographers	43
+web designers	26
+woodcut designers	0
+graphic designer stubs	0
+music visualization	3574
+numerical function drawing	0
+visualization (research)	0
+visualization (web)	0
+computer graphics stubs	0
+computer security	57306
+access control	19585
+authentication	17628
+authentication methods	0
+age verification	49
+biometrics	27268
+caller id	83
+identity documents	155
+password authentication	0
+personal identification	288
+seals (insignia)	0
+shibboleths	138
+signature	13854
+watermarking	44
+anti-spam	236
+identification	2055
+animal identification	1683
+anonymity	10266
+brand management	12054
+identifiers	937
+authentication protocols	13
+anthropometry	13594
+biometrics software	0
+fingerprints	184
+graphology	9182
+identity documents by country	0
+business cards	579
+consular identification cards	1
+driving licences	32
+health insurance card	0
+identity documents of country subdivisions	0
+identity theft	22902
+immigration documents	0
+international travel documents	0
+national identity cards	266
+password cracking software	0
+password managers	0
+heraldry	24045
+monograms	29
+national identification numbers	145
+vital statistics	1380
+chinese seal art	3
+seals of cities and towns	0
+cylinder and impression seals in archaeology	0
+engraved gem artists	0
+images of official seals	0
+national seals	0
+seals of organizations	0
+seals of places in the philippines	0
+seals of country subdivisions	0
+seals of places in the united states	0
+digital signature	33737
+images of signatures	0
+digital watermarking	5801
+computer access control frameworks	0
+federated identity	11545
+digital rights management	26118
+digital rights management circumvention software	0
+copy protection	4512
+hardware restrictions	937
+digital rights management standards	0
+digital rights management systems	0
+identity management	11286
+identity management initiative	0
+identity management systems	527
+access control software	0
+guardhouses	0
+identification of domesticated animals	0
+wild animals identification	0
+anonymity pseudonyms	0
+anonymous (group)	92853
+anonymous bloggers	135
+anonymous social media	1025
+anonymous artists	3
+fictional characters without a name	0
+anonymous works	12
+mass digitization	0
+altagamma members	0
+automotive technology tradenames	0
+brand valuation	4976
+branding consultants	0
+bundled products or services	0
+comic book lines	0
+comit谷 colbert members	0
+branding companies	0
+dreamworks classics	0
+french wine aocs	0
+merchandise	3409
+branding organizations	0
+television presentation	184
+branding terminology	0
+tourism campaigns	0
+trademarks	1092
+types of branding	0
+wwe brand extension	5
+bank codes	0
+company identification numbers	0
+names	731
+naming in sports	0
+numbering in sports	0
+security identifier types	0
+serial numbers	20
+telephone numbers	227
+unique identifiers	6
+vehicle registration plates	247
+dvd rippers	1
+compact disc and dvd copy protection	0
+digital millennium copyright act	0
+homebrew software	0
+advanced access content system	0
+drm for macos	0
+conditional-access television broadcasting	0
+free password managers	0
+near field communications	50
+linux authentication-related software	0
+computer security books	0
+cryptography books	0
+cryptography in fiction	0
+computational trust	2719
+public key infrastructure	24960
+certificate authorities	49
+former certificate authorities	0
+computer security conferences	0
+cryptography conferences	0
+hacker conventions	3
+computer surveillance	1301
+edward snowden	2710
+cultural depictions of edward snowden	0
+intelligence agency programmes revealed by edward snowden	0
+cryptography	59749
+cryptography lists and comparisons	0
+applications of cryptography	0
+crypto-anarchism	4965
+crypto-anarchists	6
+financial cryptography	222
+e-commerce	98032
+e-commerce by country	0
+companies' terms of service	0
+digital currencies	484
+digital marketing	93611
+electronic data interchange	17788
+electronic funds transfer	17539
+e-commerce in the european union	0
+merchant services	3351
+online advertising methods	0
+online banking	29405
+point of sale companies	0
+recommender systems	272
+reputation management	5535
+e-commerce software	18
+subscription services	1
+websites utilizing paywalls	0
+digital gold currencies	13
+kleptography	932
+secret broadcasting	0
+pirate broadcasting	63
+wikileaks	2361
+information published by wikileaks	0
+julian assange	748
+the wikileaks party politicians	0
+cryptographic attacks	0
+attacks on public-key cryptosystems	0
+rsa factoring challenge	6
+chosen-plaintext attacks	0
+side-channel attacks	207
+classical cryptography	300
+classical ciphers	0
+fictional languages	204
+cryptography contests	0
+cryptographers	138
+cryptographers by nationality	0
+american cryptographers	0
+australian cryptographers	0
+austrian cryptographers	0
+belgian cryptographers	0
+british cryptographers	0
+chinese cryptographers	0
+cypriot cryptographers	0
+danish cryptographers	0
+dutch cryptographers	0
+egyptian cryptographers	0
+french cryptographers	0
+german cryptographers	0
+indian cryptographers	0
+irish cryptographers	0
+israeli cryptographers	0
+italian cryptographers	0
+norwegian cryptographers	0
+pakistani cryptographers	0
+polish cryptographers	0
+russian cryptographers	0
+spanish cryptographers	0
+swiss cryptographers	0
+ukrainian cryptographers	0
+international association for cryptologic research fellows	0
+modern cryptographers	0
+cipher-machine cryptographers	0
+government communications headquarters cryptographers	0
+public-key cryptographers	0
+pre-computer cryptographers	0
+pre-19th-century cryptographers	0
+recreational cryptographers	0
+cryptographer stubs	0
+cryptologic education	0
+cryptographic hardware	0
+cryptanalytic devices	0
+encryption device accessories	0
+encryption devices	0
+national security agency encryption devices	0
+rotor machines	7
+history of cryptography	7507
+biuro szyfr車w	0
+bletchley park	114
+bletchley park people	0
+code talkers	227
+assiniboine code talkers	0
+choctaw code talkers	879
+comanche code talkers	0
+mohawk code talkers	0
+navajo code talkers	591
+seminole code talkers	0
+riverbank laboratories	0
+enigma machine	63548
+signals intelligence of world war i	0
+signals intelligence of world war ii	0
+venona project	9083
+world war ii japanese cryptography	0
+undeciphered historical codes and ciphers	0
+undeciphered writing systems	3576
+american people in the venona papers	0
+key management	6703
+broadcast encryption	332
+key pre-distribution	0
+secret sharing	4061
+key transport protocols	0
+key-agreement protocols	0
+multicast encryption	285
+cryptography law	779
+export and import control of cryptography	0
+national security agency cryptography	0
+data encryption standard	39
+cryptography organizations	0
+communications security establishment canada	0
+communications security establishment canada buildings and structures	0
+communications security establishment canada people	0
+cryptography companies	0
+electronic signature providers	0
+cypherpunks	110
+government communications headquarters	0
+government communications headquarters buildings and structures	0
+government communications headquarters operations	0
+government communications headquarters people	0
+ukusa listening stations	0
+national security agency	4134
+national security agency facilities	0
+national security agency operations	0
+national security agency people	0
+works about the national security agency	0
+united states army signals intelligence service	0
+signals intelligence service cryptographers	0
+united states army signals intelligence service installations	0
+code-based cryptography	0
+hash-based cryptography	1159
+lattice-based cryptography	5069
+multivariate cryptography	767
+cryptographic primitives	0
+random number generation	76231
+public-key cryptography	47630
+elliptic curve cryptography	5291
+identity-based cryptography	4
+pairing-based cryptography	1042
+cryptography publications	0
+cryptography journals	0
+ransomware	35837
+security engineering	3258
+secure communication	3316
+secure telephones	0
+data security	5480
+computer forensics	7708
+it risk management	0
+mobile security	9269
+computer security models	0
+people associated with computer security	0
+information privacy	9356
+computer security procedures	0
+computer security qualifications	0
+security vulnerability databases	0
+computer security software	1639
+computer security standards	0
+trusted computing	320
+computer security stubs	0
+engineering failures	0
+airliner accidents and incidents involving engineering failures	0
+bridge disasters caused by engineering error	0
+building collapses	9
+chemical disasters	0
+collapsed oil platforms	0
+construction accidents	0
+dam failures	0
+engine problems	0
+mechanical failure	65
+space accidents and incidents	795
+locksmithing	3150
+coats of arms with keys	0
+lock manufacturers	0
+locks (security device)	0
+locksmiths	69
+locksmithing museums	0
+locksmithing organizations	0
+security equipment manufacturers	0
+fire detection and alarm companies	0
+l3harris technologies	0
+video surveillance companies	0
+perimeter security	713
+prisons	551
+prisons by city	0
+prisons by country	496
+prisons in europe	0
+lists of prisons	1
+prisoners and detainees by prison	0
+camps of the gulag	0
+debtors' prisons	5
+defunct prisons	0
+immigration detention centers and prisons	0
+internment camps	485
+prison islands	0
+juvenile detention centers	5
+prison massacres	0
+men's prisons	0
+military prisons	91
+prison museums	0
+prison-related organizations	0
+prison buildings by heritage register	0
+prison food	6462
+prison healthcare	895
+private prisons	153
+psychiatric prisons	0
+prison ships	72
+prison uprisings	0
+women's prisons	13
+works about prisons	0
+images of prisons	0
+wikipedia categories named after prisons	0
+prison stubs	0
+security technology	0
+security software	2171
+vehicle security systems	0
+onion linking templates	0
+tor (anonymity network) stubs	0
+cryptography standards	1272
+steganography	29612
+symmetric-key cryptography	121
+s-box	4947
+theory of cryptography	0
+differential privacy	11510
+cryptography stubs	0
+file hosting for linux	0
+backup software for macos	0
+file hosting for windows	0
+data erasure	4080
+data erasure software	0
+data protection	968
+database security	6180
+data breaches	53
+data breaches in the united states	0
+email hacking	2546
+identity theft incidents	0
+panama papers	1283
+paradise papers	452
+electronic waste	42765
+electronic waste by country	1184
+electronic waste in china	0
+electronic waste in ghana	0
+electronic waste in india	0
+electronic waste in japan	0
+electronic waste in new zealand	0
+electronic waste in nigeria	0
+electronic waste in the united kingdom	0
+electronic waste in the united states	0
+computer recycling	4409
+electronic waste in africa	0
+electronic waste in asia	0
+electronic waste in europe	0
+fault tolerance	10825
+information governance	3167
+data laws	0
+computer law	106
+data retention	4860
+database law	0
+data protection authorities	0
+information architecture	9447
+common vulnerabilities and exposures	18
+cybercrime	57477
+alt-right	53473
+alt-right musicians	0
+alt-right politicians	0
+alt-right politicians in the united states	0
+alt-right writers	0
+american freedom party	0
+breitbart news	0
+counter-jihad activists	0
+dark enlightenment	29
+identitarian movement	13805
+national socialist black metal	50
+national socialist black metal musical groups	0
+new century foundation	0
+the great replacement conspiracy theorists	0
+unite the right rally	47
+white genocide conspiracy theory	29303
+anti-forensic software	0
+computer criminals	0
+computer criminals by nationality	0
+spammers	76
+denial-of-service attacks	247
+injection exploits	0
+malware	44118
+privilege escalation exploits	0
+web security exploits	0
+copyright infringement of software	1473
+unauthorized video games	0
+warez	5064
+crime forums	0
+cyberattacks	167
+cyberattack gangs	0
+cyberattacks on banking industry	0
+cyberattacks on energy sector	0
+cyberbullying	63276
+anti-cyberbullying activists	0
+fictional cyberbullies	0
+fictional cyberbullying victims	0
+victims of cyberbullying	0
+cybercrime by country	0
+cybercrime in canada	0
+cybercrime in the republic of ireland	0
+cybercrime in south korea	0
+cybercrime in sri lanka	0
+cybercrime in the united kingdom	0
+defunct darknet markets	0
+digital forensics	11608
+digital forensics certification	0
+digital forensics people	0
+hacking (computer security)	74
+hacking by year	0
+advanced persistent threat	13173
+hacker groups	19
+hackers	616
+hacking of yahoo!	0
+hacker magazines	0
+phreaking	15579
+hacking video games	0
+white hat (computer security)	12927
+works about computer hacking	0
+internet fraud	12329
+fake news	69999
+hijacked journals	374
+plagiarism detectors	0
+social engineering (computer security)	864
+spamming	23303
+internet safety	11541
+suicide and the internet	0
+internet vigilantism	3645
+malware by type	0
+malware in fiction	0
+types of malware	0
+malware stubs	0
+online child abuse	1181
+people convicted of cybercrime	0
+web scraping	25017
+types of cyberattacks	0
+adware	9403
+bots	361
+computer viruses	738
+computer worms	203
+malware toolkits	0
+rogue software	178
+rootkits	164
+scareware	3964
+spyware	23552
+trojan horses	63
+fictional computer viruses	0
+rootkit detection software	0
+bitcoin exchanges	0
+bitcoin mixer	55
+bitcoin organizations	0
+people associated with bitcoin	0
+bitcoin theft	0
+ethereum tokens	0
+people associated with ethereum	0
+disaster recovery	14603
+information technology audit	6571
+security compliance	0
+information assurance standards	0
+deep packet capture	16
+deep packet inspection	9827
+packet analyzer software that uses gtk	0
+port scanners	0
+web analytics	13181
+free web analytics software	0
+web log analysis software	1008
+antivirus software that uses qt	0
+free antivirus software	0
+screenshots of antivirus software	0
+gateway/routing/firewall distribution	0
+chief technology officers of computer security companies	0
+computer security software companies	0
+ironport	75
+mcafee	632
+ddos mitigation companies	0
+american computer criminals	0
+australian computer criminals	0
+british computer criminals	0
+bulgarian computer criminals	0
+canadian computer criminals	0
+french computer criminals	0
+german computer criminals	0
+israeli computer criminals	0
+japanese computer criminals	0
+moroccan computer criminals	0
+new zealand computer criminals	0
+pakistani computer criminals	0
+romanian computer criminals	0
+russian computer criminals	0
+swedish computer criminals	0
+ukrainian computer criminals	0
+email spammers	0
+usenet spammers	0
+analysts of the national security agency	0
+national security agency cryptographers	0
+deputy directors of the national security agency	0
+directors of the national security agency	0
+fictional national security agency personnel	0
+computer security specialists	0
+chief security officers	0
+fictional computer security specialists	0
+fictional hackers	0
+anonymous (group) activists	0
+members of chaos computer club	0
+ethical hackers	0
+writers about computer security	0
+computer security academics	0
+disclosure	2336
+freedom of information legislation	1670
+freedom of information legislation in canada	0
+freedom of information legislation in india	0
+freedom of information legislation in the united kingdom	0
+freedom of information legislation in the united states	0
+right to information in india	0
+freedom of information act (united states)	0
+internet privacy	20021
+internet privacy case law	0
+location-based software	1
+internet privacy legislation	0
+internet privacy organizations	0
+electronic frontier foundation	1052
+pirate parties	68
+privacy software	1385
+internet privacy software	0
+medical privacy	2767
+medical privacy legislation	0
+privacy law	15102
+article 8 of the european convention on human rights	0
+privacy case law	0
+section eight charter case law	0
+united states privacy case law	0
+united kingdom privacy case law	0
+united states third-party doctrine	0
+privacy legislation	0
+privacy legislation in canada	0
+united states federal privacy legislation	0
+united states state privacy legislation	0
+personality rights	13861
+privileged communication	162
+legal professional privilege	2496
+priest每penitent privilege	0
+united states evidentiary privilege case law	0
+scholars of privacy law	0
+searches and seizures	56
+search and seizure case law	0
+seized domain names	0
+united kingdom privacy law	0
+english privacy law	4
+privacy law in the united states	0
+united states fourth amendment case law	0
+right to abortion under the united states constitution	0
+right to privacy under the united states constitution	0
+united states foreign intelligence surveillance court	0
+privacy organizations	0
+defunct privacy organizations	0
+electronic frontier foundation litigation	0
+electronic frontier foundation people	0
+pirate party of austria	0
+czech pirate party	0
+pirate party germany	0
+pirate party of luxembourg	0
+pirate party of the netherlands	0
+the pirate bay	707
+pirate party (spain)	0
+pirate party of sweden	0
+pirate party switzerland	0
+tunisian pirate party	0
+computer security accreditations	0
+security testing tools	0
+brute force blocking software	0
+ironport people	0
+free security software	0
+free security software programmed in c	0
+intrusion detection systems	62
+macos security software	0
+pentesting software toolkits	0
+software update managers	0
+patch utilities	0
+slipstream (computing)	154
+spyware removal	0
+screenshots of spyware removal	0
+defunct tor hidden services	0
+unix security software	0
+computer security software stubs	0
+digital millennium copyright act case law	0
+digital millennium copyright act takedown incidents	0
+atari 2600 homebrew games	0
+dreamcast homebrew games	0
+nintendo ds homebrew	3
+erlang (programming language)	22186
+free software programmed in erlang	0
+go (programming language)	80538
+go software	781
+java (programming language)	121961
+java compilers	0
+eclipse (software)	46288
+java specification requests	4
+java (programming language) libraries	0
+software programmed in java (programming language)	0
+software programmed in rust	0
+sr programming language family	0
+domain theory	1701
+applications of distributed computing	2
+distributed computing projects	0
+massively multiplayer online games	75
+virtual reality communities	0
+blockchain games	0
+distributed computing problems	0
+berkeley open infrastructure for network computing projects	0
+great internet mersenne prime search	3
+volunteer computing	999
+linux process- and task-management-related software	0
+database theory	1499
+database constraints	91
+database models	29
+entity每relationship model	0
+relational model	17280
+object-relational mapping	24753
+database normalization	42488
+database researchers	0
+formal methods	7099
+logical calculi	0
+combinatory logic	3707
+applicative computing systems	91
+lambda calculus	37094
+abstract machines	0
+educational abstract machines	0
+program logic	0
+model checking	3372
+models of computation	395
+persistence	467
+asn.1	142
+configuration files	82
+delimiter-separated format	0
+json	4823
+xml	2304
+persistence frameworks	0
+programming paradigms	338
+aspect-oriented programming	12960
+declarative programming	17224
+functional programming	58957
+declarative programming languages	0
+feature-oriented programming	455
+generic programming	8063
+metaprogramming	6728
+literate programming	6245
+computational notebook	8
+multi-paradigm programming languages	0
+c++	23173
+scala (programming language)	30105
+object-oriented programming	72315
+class (computer programming)	15063
+object-oriented database management systems	0
+method (computer programming)	8356
+object (computer science)	12151
+object models	0
+object-oriented programming languages	27
+polymorphism (computer science)	17893
+prototype-based programming	5467
+prototype-based programming languages	0
+service-oriented (business computing)	0
+apple inc. services	0
+google services	188
+ibm services	0
+net-centric	0
+nintendo services	0
+nokia services	0
+service-oriented architecture-related products	0
+sony services	0
+twitter services and applications	0
+register machines	0
+register-based virtual machines	0
+reversible computing	3510
+stack machines	34
+stack-based virtual machines	0
+formal methods organizations	0
+formal methods people	0
+members of the department of computer science, university of oxford	0
+program analysis	1601
+compiler optimizations	55
+control-flow analysis	112
+data-flow analysis	3134
+incremental computing	664
+software metrics	317
+static program analysis	6493
+abstract interpretation	2091
+static program analysis tools	0
+program derivation	243
+formal methods publications	0
+formal specification	2415
+formal specification languages	0
+hardware verification languages	3
+z notation	8583
+formal methods terminology	0
+formal methods stubs	0
+human-based computation	773
+human-based computation games	0
+social search	3286
+ideas banks	10
+knowledge markets	0
+question-and-answer websites	0
+stack exchange network	0
+catalan solids	35
+chiral polyhedra	0
+polyhedral compounds	0
+deltahedra	95
+dual uniform polyhedra	4
+figurate numbers	167
+geodesic polyhedra	25
+goldberg polyhedra	147
+johnson solids	31
+nonconvex polyhedra	5
+prismatoid polyhedra	0
+projective polyhedra	52
+pseudo-uniform polyhedra	0
+pyramids and bipyramids	0
+self-dual polyhedra	26
+space-filling polyhedra	28
+polyhedral stellation	0
+tessellation	24072
+toroidal polyhedra	42
+uniform polyhedra	81
+zonohedra	70
+polyhedron stubs	0
+geometric transversal theory	0
+oriented matroids	0
+action (physics)	7533
+cell movement	0
+variational analysts	0
+convex analysis	1036
+generalizations of the derivative	2138
+variational principles	10
+geodesic (mathematics)	0
+geometric flow	850
+minimal surfaces	135
+bubbles (physics)	0
+morse theory	3648
+optimal control	7203
+perturbation theory	10906
+boundary layers	143
+orbital perturbations	0
+variational formalism of general relativity	0
+generalized convexity	0
+spatial gradient	689
+programming language theory	5589
+programming language researchers	0
+academic programming languages	0
+compiler construction	1384
+implementation of functional programming languages	0
+apl implementers	0
+dependently typed programming	7
+dependently typed languages	0
+program transformation	861
+program transformation tools	0
+source-to-source compilers	8
+programming languages	1833
+programming language families	0
+icl programming languages	0
+algol programming language family	0
+algol 58 dialect	0
+algol 60	381
+algol 60 implementation	0
+algol 68	178
+basic programming language family	0
+c programming language family	0
+icon programming language family	0
+joss programming language family	0
+pascal programming language family	0
+pl/i programming language family	0
+apl programming language family	0
+basic programming language	55
+basic extensions	0
+articles with example basic code	0
+basic commands	0
+software programmed in basic	0
+c (programming language)	121638
+c sharp programming language family	0
+c++ programming language family	0
+java programming language family	0
+javascript programming language family	0
+lua (programming language)	30127
+objective-c	241
+perl	29568
+php	5864
+vala (programming language)	5528
+forth programming language family	0
+fortran programming language family	0
+haskell programming language family	0
+articles with example haskell code	0
+haskell software	0
+javascript	6661
+javascript dialect engines	0
+mumps programming language family	0
+lisp programming language family	0
+common lisp	296
+dylan (programming language)	2052
+lisp (programming language)	40790
+logo programming language family	0
+scheme (programming language)	17118
+ml programming language family	0
+ocaml programming language family	0
+modula programming language family	0
+oberon programming language family	0
+.net programming languages	0
+ocaml software	0
+delphi (programming language)	2630
+free pascal	0
+pascal (programming language)	30906
+books about perl	0
+raku	735
+perl software	0
+python (programming language)	192771
+articles with example python code	0
+python development tools	0
+python implementations	26
+python libraries	0
+python people	0
+python software	21
+python web frameworks	0
+ruby (programming language)	37348
+free software programmed in ruby	0
+smalltalk programming language family	0
+snobol programming language family	0
+tcl programming language family	0
+articles with example tcl code	0
+free software programmed in tcl	0
+xbase programming language family	0
+software by programming language	0
+.net framework software	0
+free software programmed in c sharp	0
+software written primarily in assembly language	0
+free software primarily written in assembly language	0
+free software programmed in basic	0
+c sharp software	0
+c sharp libraries	0
+c software	0
+free software programmed in c	0
+c++ software	0
+free software programmed in c++	0
+google chrome	7989
+software that was rewritten in c++	0
+d (programming language) software	0
+free software programmed in d (programming language)	0
+fortran software	0
+free software programmed in fortran	0
+fortran libraries	0
+free software by programming language	0
+free software programmed in delphi	0
+free software programmed in kotlin	0
+free software programmed in swift	0
+free software programmed in go	0
+free software programmed in haskell	0
+free software programmed in java (programming language)	0
+free software programmed in javascript	0
+free software programmed in lisp	0
+free software programmed in lua	0
+free software programmed in objective-c	0
+free software programmed in ocaml	0
+free software programmed in pascal	0
+free software programmed in perl	0
+free software programmed in php	0
+free software programmed in python	0
+free software programmed in scala	0
+free software programmed in think c	0
+free software programmed in vala	0
+haskell implementations	0
+computer-assisted translation software programmed in java	0
+java platform games	0
+text editors programmed in java	0
+java development tools	0
+videoconferencing software programmed in java	0
+voice over ip clients programmed in java	0
+web server software programmed in java	0
+lisp software	0
+common lisp software	0
+lua software	0
+lua-scriptable software	0
+lua-scripted software	0
+objective-c software	0
+pascal software	0
+perl modules	5
+php software	0
+php libraries	0
+php frameworks	0
+python-scripted video games	0
+zope	2011
+vala software	0
+xml software	0
+xml databases	0
+xml editors	0
+xml parsers	0
+programming languages conferences	0
+programming languages by creation date	0
+programming languages created in the 20th century	0
+programming languages created in the 1940s	0
+programming languages created in the 1950s	0
+programming languages created in the 1960s	0
+programming languages created in the 1970s	0
+programming languages created in the 1980s	0
+programming languages created in the 1990s	0
+programming languages created in the 21st century	0
+programming languages created in the 2000s	0
+programming languages created in the 2010s	0
+programming languages created in 1948	0
+programming languages created in 1949	0
+programming languages created in 1950	0
+programming languages created in 1951	0
+programming languages created in 1952	0
+programming languages created in 1953	0
+programming languages created in 1955	0
+programming languages created in 1956	0
+programming languages created in 1957	0
+programming languages created in 1958	0
+programming languages created in 1959	0
+programming languages created in 1960	0
+programming languages created in 1962	0
+programming languages created in 1963	0
+programming languages created in 1964	0
+programming languages created in 1966	0
+programming languages created in 1967	0
+programming languages created in 1968	0
+programming languages created in 1969	0
+programming languages created in 1970	0
+programming languages created in 1971	0
+programming languages created in 1972	0
+programming languages created in 1973	0
+programming languages created in 1974	0
+programming languages created in 1975	0
+programming languages created in 1976	0
+programming languages created in 1977	0
+programming languages created in 1978	0
+programming languages created in 1979	0
+programming languages created in 1980	0
+programming languages created in 1981	0
+programming languages created in 1982	0
+programming languages created in 1983	0
+programming languages created in 1984	0
+programming languages created in 1985	0
+programming languages created in 1986	0
+programming languages created in 1987	0
+programming languages created in 1988	0
+programming languages created in 1989	0
+programming languages created in 1990	0
+programming languages created in 1991	0
+programming languages created in 1992	0
+programming languages created in 1993	0
+programming languages created in 1994	0
+programming languages created in 1995	0
+programming languages created in 1996	0
+programming languages created in 1997	0
+programming languages created in 1998	0
+programming languages created in 1999	0
+programming languages created in 2000	0
+programming languages created in 2001	0
+programming languages created in 2002	0
+programming languages created in 2003	0
+programming languages created in 2004	0
+programming languages created in 2005	0
+programming languages created in 2006	0
+programming languages created in 2007	0
+programming languages created in 2008	0
+programming languages created in 2009	0
+programming languages created in 2010	0
+programming languages created in 2011	0
+programming languages created in 2012	0
+programming languages created in 2013	0
+programming languages created in 2014	0
+programming languages created in 2015	0
+programming languages created in 2016	0
+programming languages created in 2017	0
+programming languages created by women	0
+lists of programming languages	1900
+algebraic modeling languages	0
+concatenative programming languages	0
+criticisms of programming languages	0
+data-structured programming languages	0
+array programming languages	14
+stack-oriented programming languages	0
+declarative markup languages	0
+functional languages	104
+discontinued programming languages	0
+discontinued basics	0
+discontinued microsoft basics	0
+domain-specific programming languages	0
+4gl	0
+audio programming languages	4
+educational programming languages	0
+programming games	8
+mud programming languages	0
+mumps programming language	3
+page description markup languages	0
+postscript	18772
+parser generators	10
+query languages	14
+persistent programming languages	0
+sql	2194
+xml data access	0
+scripting languages	154
+cfml programming language	0
+template engines	0
+typescript	911
+simulation programming languages	0
+systems programming languages	0
+troff	2916
+web programming	91
+dynamic programming languages	0
+dynamically typed programming languages	0
+articles with example scheme code	0
+scheme (programming language) implementations	0
+esoteric programming languages	149
+experimental programming languages	0
+extensible syntax programming languages	0
+formula manipulation languages	0
+function-level languages	0
+high integrity programming language	0
+high-level programming languages	64
+fortran compilers	0
+programming languages with an iso standard	0
+low-level programming languages	10
+articles with example c++ code	0
+books about c++	0
+c++ people	0
+c++ compilers	0
+c++ libraries	0
+non-english-based programming languages	0
+nondeterministic programming languages	0
+object-based programming languages	0
+javascript engines	0
+ajax (programming)	35972
+javascript-based html editors	0
+javascript libraries	0
+people associated with javascript	0
+javascript programming tools	0
+class-based programming languages	0
+procedural programming languages	3
+assembly languages	8
+assemblers	40
+basic compilers	0
+basic interpreters	0
+articles with example pascal code	0
+pascal libraries	0
+pascal compilers	0
+structured programming languages	0
+programming language syntax	420
+reactive programming languages	0
+secure programming languages	0
+set theoretic programming languages	3
+programming language standards	0
+c standard library	16443
+c standard library headers	0
+posix error codes	0
+c++ standard library	16443
+ecma standards	0
+office open xml	95
+statically typed programming languages	0
+term-rewriting programming languages	0
+text-oriented programming languages	0
+xml-based programming languages	0
+wikipedia categories named after programming languages	0
+c compilers	0
+c headers	0
+c language contests	0
+c libraries	0
+lua-scriptable hardware	0
+rewriting systems	0
+programming language semantics	58
+axiomatic semantics	840
+operational semantics	2710
+type theory	9499
+type systems	221
+data types	259
+composite data types	0
+primitive types	71
+statistical data types	0
+string (computer science)	15151
+programming language theory stubs	0
+soft computing	3096
+software engineering	37290
+software engineers	116
+software engineers by nationality	0
+american software engineers	0
+british software engineers	0
+canadian software engineers	0
+chinese software engineers	0
+dutch software engineers	0
+finnish software engineers	0
+german software engineers	0
+indian software engineers	0
+israeli software engineers	0
+kenyan software engineers	0
+fictional software engineers	0
+software engineering researchers	0
+software testing people	0
+software architecture	25251
+architectural pattern (computer science)	1825
+architecture description language	1866
+component-based software engineering	8186
+enterprise architecture	13310
+business architecture	5196
+enterprise architecture frameworks	0
+enterprise modelling	4232
+business process modelling	173
+enterprise modelling experts	0
+erp software	0
+free erp software	0
+erp software companies	0
+microsoft dynamics	0
+supply chain software companies	0
+enterprise resource planning terminology	0
+java enterprise platform	0
+javaserver faces	12
+reference models	0
+software analysis patterns	0
+software frameworks	0
+multimedia frameworks	0
+ffmpeg	914
+quicktime	671
+.net framework implementations	0
+.net framework terminology	0
+ado.net data access technologies	0
+asp.net	347
+.net programming tools	0
+web frameworks	0
+javascript web frameworks	0
+computer programming	46609
+anti-patterns	28
+computer programming books	0
+common lisp publications	0
+code refactoring	17363
+programming constructs	0
+control flow	11970
+conditional constructs	0
+continuations	117
+iteration in programming	0
+subroutines	559
+operators (programming)	0
+assignment operations	0
+unary operations	4
+higher-order functions	247
+debugging	12158
+software bugs	476
+bug and issue tracking software	0
+time formatting and storage bugs	2697
+video game glitches	0
+debuggers	98
+debugging data formats	0
+debugging support libraries	0
+free memory debuggers	0
+c++ debugging support libraries	0
+disassemblers	0
+dll injection	0
+computer programming folklore	0
+indexes of computer topics	0
+computer libraries	0
+free computer libraries	0
+glib	150
+kde frameworks	0
+kde platform	0
+software by library used	0
+software that uses clutter	0
+gecko-based software	0
+software that uses glib	0
+software that uses gnustep	0
+software that uses mono	0
+software that uses motif	0
+software that uses ncurses	0
+software that uses pygobject	0
+software that uses qml	0
+software that uses scintilla	0
+software that uses ffmpeg	0
+software that uses gstreamer	0
+software that uses gtk	0
+software that uses s-lang	0
+software that uses vtk	0
+software that uses sqlite	0
+software based on webkit	0
+x-based libraries	0
+x window programs	0
+software that uses xul	0
+clutter (software)	1269
+gstreamer	188
+scintilla	187
+python scientific libraries	0
+application programming interfaces	348
+accessibility api	0
+database apis	0
+archive networks	0
+audio libraries	0
+programming libraries	3
+software development kits	28
+text user interface libraries	0
+s-lang (programming library)	0
+unit testing frameworks	0
+video libraries	0
+computer library stubs	0
+live coding	2235
+algorave	1310
+software optimization	53
+load testing tools	0
+profilers	15
+computer programmers	109
+computer programmers by nationality	0
+video game programmers by nationality	0
+american computer programmers	0
+australian computer programmers	0
+austrian computer programmers	0
+bangladeshi computer programmers	0
+belarusian computer programmers	0
+belgian computer programmers	0
+british computer programmers	0
+canadian computer programmers	0
+chinese computer programmers	0
+croatian computer programmers	0
+danish computer programmers	0
+dutch computer programmers	0
+english computer programmers	0
+estonian computer programmers	0
+filipino computer programmers	0
+finnish computer programmers	0
+french computer programmers	0
+german computer programmers	0
+greek computer programmers	0
+hungarian computer programmers	0
+indian computer programmers	0
+iranian computer programmers	0
+irish computer programmers	0
+israeli computer programmers	0
+italian computer programmers	0
+japanese computer programmers	0
+kazakhstani computer programmers	0
+mexican computer programmers	0
+new zealand computer programmers	0
+nigerian computer programmers	0
+norwegian computer programmers	0
+pakistani computer programmers	0
+polish computer programmers	0
+russian computer programmers	0
+singaporean computer programmers	0
+south african computer programmers	0
+sri lankan computer programmers	0
+swedish computer programmers	0
+swiss computer programmers	0
+syrian computer programmers	0
+taiwanese computer programmers	0
+welsh computer programmers	0
+zimbabwean computer programmers	0
+computer systems engineers	1
+fictional programmers	0
+free software programmers	0
+linux kernel programmers	0
+mozilla developers	0
+perl people	0
+kernel programmers	0
+video game programmers	0
+women video game programmers	0
+programmers who committed suicide	0
+transgender and transsexual computer programmers	0
+web developers	61
+programming contests	0
+video game development competitions	0
+programming idioms	61
+software design patterns	61
+programming principles	0
+self-hosting software	0
+source code	24910
+code search engines	0
+defunct code search engines	0
+open-source software hosting facilities	0
+codeplex	129
+discontinued open-source software hosting facilities	0
+github	2076
+version control systems	129
+discontinued version control systems	0
+concurrent versions system	25
+distributed version control systems	0
+free version control software	0
+git (software)	7397
+project hosting websites	0
+proprietary version control systems	0
+version control gui tools	0
+wikis	567
+whitespace	149
+source code generation	235
+computer programming tools	0
+free computer programming tools	0
+free compilers and interpreters	0
+free documentation generators	0
+open-source hosted development tools	0
+free integrated development environments	0
+free software testing tools	0
+free text editors	0
+free uml tools	0
+free web development software	0
+help desk software	1193
+build automation	6453
+continuous integration	30584
+meson build system	453
+classic mac os programming tools	0
+code navigation tools	0
+compilers	526
+compilers by programming language	0
+compiler theory	176
+compilers and interpreters	0
+compiling tools	15
+cross-compilers	34
+decompilers	27
+computer-aided software engineering tools	0
+data modeling	17256
+data modeling tools	19
+uml tools	0
+desktop database application development tools	0
+discontinued development tools	0
+discontinued microsoft development tools	0
+documentation generators	0
+text editors	244
+collaborative real-time editors	0
+text editor comparisons	0
+html editors	0
+line editor	731
+macos text editors	0
+pl/sql editors	0
+text editor features	0
+text editors for linux	0
+windows text editors	0
+text editor stubs	0
+integrated development environments	0
+language workbench	275
+linux integrated development environments	0
+microsoft visual studio	101
+online integrated development environments	0
+pedagogic integrated development environments	0
+windows integrated development environments	0
+java decompilers	0
+software-localization tools	0
+po editors	0
+macos programming tools	0
+microsoft development tools	0
+programming language implementation	2969
+interpreters (computing)	0
+parsing	19108
+software testing tools	0
+graphical user interface testing	1412
+user interface builders	0
+web development software	2
+automated wysiwyg editors	0
+computer programming tool stubs	0
+unified modeling language stubs	0
+computer programming stubs	0
+software engineering conferences	0
+software design	15088
+data modeling diagrams	0
+data modeling languages	0
+unified modeling language	261
+software features	0
+software development	29486
+atari st-only games	0
+cancelled atari st games	0
+atari st game covers	0
+screenshots of atari st games	0
+software development books	0
+software engineering books	0
+coding schools	0
+software developer communities	0
+software development events	0
+game jams	41
+free software websites	0
+video game development websites	0
+game jam video games	0
+software forks	0
+internationalization and localization	11782
+american and british english differences	10
+date and time representation	0
+date and time representation by country	5251
+internationalized domain names	522
+language-specific linux distributions	0
+chinese-language linux distributions	0
+japanese-language linux distributions	0
+portuguese-language linux distributions	0
+spanish-language linux distributions	0
+turkish-language linux distributions	0
+location codes	0
+video game localization	1704
+software project management	3628
+agile software development	115145
+dynamic systems development method	5988
+extreme programming	24312
+software engineering costs	0
+software development philosophies	0
+software development by platforms	0
+software release	632
+software development process	27801
+software documentation	12104
+upcoming software	0
+video game development	18081
+web development	19381
+maturity models	0
+aspect-oriented software development	1853
+method engineering	1181
+configuration management	20506
+fagan inspection	1413
+types of tools used in software development	0
+alpha software	120
+beta software	811
+upcoming video games	16
+upcoming video games scheduled for 2019	0
+upcoming video games scheduled for 2020	0
+upcoming mmorpgs	0
+upcoming video games related to anime and manga	0
+video games with commentaries	0
+video game development companies	0
+independent video game developers	0
+game developer logos	0
+first-party video game developers	0
+343 industries	21
+academy of interactive arts & sciences members	0
+action button entertainment	0
+activision	65690
+bioware	639
+black isle studios	0
+bullfrog productions	0
+bungie	40013
+capcom	26050
+codemasters	11644
+crytek	10138
+dena	1299
+digital pictures	0
+d身jin soft developers	0
+ensemble studios	0
+epic games	1233
+fallout series developers	0
+free radical design	0
+guerrilla cambridge	0
+guerrilla games	0
+hal laboratory	0
+id software	260
+intelligent systems	95
+international game developers association members	0
+interplay entertainment	0
+irem	2564
+iron galaxy	0
+jagex	8234
+juice games	0
+konami	34756
+krome studios	0
+lionhead studios	0
+mages (company)	1934
+marvelous entertainment	0
+media molecule	0
+monolith productions	0
+namco	11114
+naughty dog	0
+ncsoft	39
+nexon	8218
+nintendo	107159
+nippon ichi software	0
+nitroplus	2561
+obsidian entertainment	0
+pangea software	0
+perfect world (company)	0
+rare (company)	23533
+rebellion developments	0
+red thread games	0
+relic entertainment	11
+respawn entertainment	0
+sega	42663
+silicon knights	0
+skip ltd.	0
+snk	220
+softdisk	1013
+sony interactive entertainment	27
+square enix	304
+stardock	1876
+supermassive games	0
+taito	5542
+take-two interactive	0
+team bondi	0
+team17	11589
+thq	195
+three rings design	0
+toei company	0
+tokuma shoten	0
+tri-ace	26
+type-moon	29
+ubisoft	46613
+valve corporation	57
+wildtangent	30
+zynga	19643
+video game design	5593
+video game designers	0
+game accessibility	580
+video game gameplay	0
+video game developers	104
+women video game developers	0
+video game artists	0
+video game composers	0
+video game directors	0
+video game producers	0
+video game writers	0
+video games by development status	0
+massively multiplayer online games by status	0
+cancelled video games	0
+crowdfunded video games	0
+development of specific video games	0
+early access video games	0
+inactive online games	0
+launch titles	85
+video game mods	4
+steam greenlight games	0
+vaporware video games	0
+video game modification tools	0
+video game level editors	0
+ren'py games	0
+video game development software	0
+video game ide	0
+video game software stubs	0
+video game sound	0
+video game music	9876
+video game universities	0
+usc interactive media & games division	0
+automattic	10345
+tumblr	49959
+wordpress	1768
+css frameworks	0
+html	5584
+html parsers	0
+html5	2985
+html tags	48
+hypertext transfer protocol	26
+hypertext transfer protocol headers	0
+hypertext transfer protocol status codes	0
+website management	0
+web syndication	4415
+news aggregator software	0
+news aggregators	429
+podcasting	7320
+video bloggers	13
+web syndication formats	0
+web accessibility	7163
+assistive technology	10380
+web design	28417
+cascading style sheets	1895
+web design companies	0
+programming language topics	0
+programming language designers	0
+programming language classification	0
+homoiconic programming languages	0
+programming language comparisons	0
+comparison of individual programming languages	0
+programming language concepts	0
+evaluation strategy	3870
+variable (computer science)	7864
+programming language design	228
+scheme (programming language) interpreters	0
+programming language folklore	0
+programming languages by peer review	0
+run-time systems	0
+programming language topic stubs	0
+markup language stubs	0
+software maintenance	13014
+software engineering organizations	0
+software engineering publications	0
+software engineering papers	0
+software engineering standards	0
+software quality	7991
+reliability engineering	16299
+environmental testing	764
+human reliability	999
+reliability analysis	0
+software anomalies	0
+software testing	40919
+acid tests	19
+software review	817
+usability inspection	391
+unit testing	21988
+software requirements	2742
+systems modeling language	0
+unified modeling language diagrams	0
+unified modeling language diagram images	0
+software engineering folklore	0
+software for modeling software	0
+specification languages	0
+xml technology people	0
+xml markup languages	0
+xml organizations	0
+xml-based standards	0
+xquery processors	0
+xslt processors	0
+hardware description languages	18
+system description languages	0
+software modeling language	0
+software engineering terminology	0
+version control	19134
+software using distributed version control	0
+subversion	12311
+wikis by genre	0
+wikis by topic	0
+wiki communities	0
+wiki concepts	0
+mediawiki websites	0
+museums with wikis	0
+wiki software	7024
+wiki-related conferences	0
+software that uses json-rpc	0
+free html editors	0
+free news aggregators	0
+news aggregators that use gtk	0
+podcast debuts by year	0
+podcasts by genre	0
+podcasts by language	0
+audio podcasts	0
+podcasting companies	0
+creative commons-licensed podcasts	0
+lists of podcast episodes	0
+podcast logos	0
+podcasters	101
+podcasting awards	0
+podcasting software	0
+video podcasts	0
+works based on podcasts	0
+internet broadcasting stubs	0
+video bloggers by nationality	0
+musers	17
+women video bloggers	0
+youtubers	0
+atom (standard)	5194
+augmentative and alternative communication	7570
+blindness equipment	0
+braille	30426
+adaptive clothing	639
+hearing aids	790
+mobility devices	0
+prosthetics	1286
+radio reading services	0
+remote control	18837
+disability software	0
+subtitling	148
+telehealth	9275
+television shows featuring audio description	0
+url-shortening services	0
+web design companies of the united states	0
+typo3	235
+software engineering stubs	0
+theoretical computer science	10847
+formal languages	200
+computer languages	189
+lists of computer languages	6
+lists of markup languages	5
+graph description languages	0
+markup languages	381
+markup language comparisons	0
+docbook	77
+lightweight markup languages	24
+mathematical markup languages	14
+musical markup languages	0
+playlist markup languages	0
+user interface markup languages	0
+modeling languages	54
+diagrams	311
+infographics	473
+notation	2752
+workflow languages	0
+stylesheet languages	0
+test items in computer languages	0
+transformation languages	0
+macro programming languages	2
+formal theories	0
+formal theories of arithmetic	0
+formal systems	130
+systems of formal logic	0
+mathematical axioms	0
+rules of inference	561
+systems of set theory	0
+grammar frameworks	6
+cognitive grammar	1298
+construction grammar	1939
+syntactic transformation	0
+word order	9243
+systemic functional linguistics	4730
+logic symbols	63
+logical expressions	0
+propositions	694
+theorems	318
+metalanguages	42
+algebraic graph theory	1338
+cayley graphs	0
+regular graphs	0
+strongly regular graphs	0
+graph coloring	14165
+perfect graphs	0
+bipartite graphs	69
+graph connectivity	210
+graph databases	274
+graph enumeration	367
+extensions and generalizations of graphs	0
+directed graphs	0
+causal diagrams	0
+hypergraphs	6
+extremal graph theory	660
+geometric graph theory	1001
+geometric graphs	0
+graphs	139
+application-specific graphs	0
+graph families	0
+intersection classes of graphs	0
+parametric families of graphs	0
+trees (graph theory)	0
+individual graphs	0
+infinite graphs	0
+random graphs	72
+graph invariants	0
+matching	1113
+stable matching	84
+mathematical chemistry	2272
+network theory	8552
+network analysis	1751
+graph theory objects	0
+hamiltonian paths and cycles	0
+graph operations	1278
+graph products	27
+theorems in graph theory	0
+graph theorists	0
+topological graph theory	846
+information theory	30393
+algorithmic information theory	1819
+coding theorists	0
+collation	4352
+binary-to-text encoding formats	0
+control characters	462
+cyrillic alphabet representations	0
+encodings of japanese	0
+latin-script representations	0
+unicode	79495
+unicode transformation formats	0
+data compression	23722
+codecs	239
+data compression software	0
+compression file systems	0
+data differencing	580
+file comparison tools	0
+web archives	0
+free codecs	1
+free multimedia codecs, containers, and splitters	0
+microsoft proprietary codecs	0
+text codecs	0
+wideband codecs	0
+free data compression software	0
+linux archivers and compression-related utilities	0
+macos archivers and compression-related utilities	0
+windows archivers and compression-related utilities	0
+free file comparison tools	0
+entropy and information	0
+quantum mechanical entropy	0
+information geometry	2116
+statistical distance	8061
+f-divergences	0
+similarity and distance measures	0
+information theorists	0
+information theorists by nationality	0
+american information theorists	0
+argentine information theorists	0
+austrian information theorists	0
+british information theorists	0
+french information theorists	0
+german information theorists	0
+israeli information theorists	0
+italian information theorists	0
+japanese information theorists	0
+pakistani information theorists	0
+russian information theorists	0
+swedish information theorists	0
+quality of service	14438
+queueing theory	19274
+poisson point processes	0
+queueing theorists	0
+single queueing nodes	0
+teletraffic	16
+quantum information theory	1503
+quantum information scientists	0
+units of information	8296
+logic in computer science	3865
+categorical logic	1064
+topos theory	599
+representable functors	0
+logic gates	768
+quantum gates	111
+linear logic	2115
+logic conferences	0
+modal logic	11104
+modal logicians	0
+provability logic	547
+mathematical theorems in theoretical computer science	0
+theorems in theory of computation	0
+mathematics of computing	0
+natural computation	104
+pseudorandomness	3614
+pursuit-evasion	612
+tag variants	0
+laser tag	7763
+quantum information science	4956
+quantum measurement	434
+hidden variable theory	1120
+interpretations of quantum mechanics	10708
+theoretical computer science conferences	0
+theoretical computer scientists	0
+theory of computation	9295
+computability theory	4277
+computability theorists	0
+computable analysis	371
+effective descriptive set theory	250
+hypercomputation	2201
+undecidable problems	0
+probabilistic complexity classes	0
+nl-complete problems	0
+np-hard problems	0
+p-complete problems	0
+polynomial-time problems	0
+pspace-complete problems	0
+minesweeper (video game)	25471
+nonograms	20
+sudoku	60208
+tetris	43714
+weakly np-complete problems	0
+limits of computation	1894
+unsolved problems in computer science	281
+theoretical computer science stubs	0
+sudoku competitions	0
+sudoku solvers	0
